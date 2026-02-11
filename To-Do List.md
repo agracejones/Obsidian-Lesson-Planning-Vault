@@ -1,5 +1,7 @@
 - [ ] [[3rd-4th - Ragtime Unit]]
 	- [ ] Update to CME or figure out better format
 - [ ] [[Kinder-2nd - Jazz Unit]]
-	- [ ] Update con
+	- [ ] Update unit concepts
+	- [ ] 
 - [ ] [[5th - Part Singing Unit]]
+- [ ] 
