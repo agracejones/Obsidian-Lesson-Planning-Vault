@@ -5,5 +5,5 @@
 	- [ ] Plan day four
 - [ ] [[5th - Part Singing Unit]]
 	- [ ] Plan day three
-- [ ] Create a [[Concept Template]]
+- [x] Create a [[Concept Template]]
 - [ ] 
