@@ -7,4 +7,3 @@
 - [ ] [[5th - Part Singing Unit]]
 	- [ ] Plan day three
 - [x] Create a [[Concept Template]]
-- [ ] 
