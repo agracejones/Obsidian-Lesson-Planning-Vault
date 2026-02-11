@@ -2,6 +2,6 @@
 	- [ ] Update to CME or figure out better format
 - [ ] [[Kinder-2nd - Jazz Unit]]
 	- [ ] Update unit concepts
-	- [ ] 
+	- [ ] Plan day four
 - [ ] [[5th - Part Singing Unit]]
-- [ ] 
+- [ ] Create a [[Concept Template]]
