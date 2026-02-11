@@ -11,9 +11,12 @@ She'll be coming 'round the mountain when she comes
 
 She'll be riding six white horses when she comes
 She'll be riding six white horses when she comes
-She'll be riding six white horses when she come
+She'll be riding six white horses
+She'll be riding six white horses
+She'll be riding six white horses when she comes
 
 ## Variations/Modifications
+Can be sung as a [[Partner Song]] with [[When The Saints Go Marching In]].
 
 ## Other Notes
 
