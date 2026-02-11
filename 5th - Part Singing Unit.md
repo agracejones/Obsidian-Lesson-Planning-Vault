@@ -2,6 +2,8 @@ Unit: Part Singing
 
 Unit Goals: Students will be able to maintain their own melody or harmony while singing simultaneously with another independent melody or harmony.
 
+Unit Concepts: [[Partner Song]]
+
 Grade Level: 5th
 
 ## Day One: Partner Songs
@@ -26,12 +28,12 @@ Post-Teaching Summary:
 
 ## Day Two: Partner Songs, cont.
 
-| ***Part of Lesson*** | ***Plan for Today***                                                                                                                   | ***Resources/Links***                                                     |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Concept              | [[Partner Song]]                                                                                                                       |                                                                           |
-| Method               | Review [[I Am Getting Such A Headache]] and then learn [[When The Saints Go Marching In]] and [[She'll Be Coming 'Round The Mountain]] | https://musicplayonline.com/songs/i-am-getting-such-a-headache/?my_access |
-| Warm-up              | Warm up with [[My Bonnie Lies Over The Ocean]], having them both sing and do the game.                                                 |                                                                           |
-| Execution            |                                                                                                                                        |                                                                           |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ***Resources/Links***                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Concept              | [[Partner Song]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                           |
+| Method               | Review [[I Am Getting Such A Headache]] and then learn [[When The Saints Go Marching In]] and [[She'll Be Coming 'Round The Mountain]]                                                                                                                                                                                                                                                                                                                                                                                  | https://musicplayonline.com/songs/i-am-getting-such-a-headache/?my_access |
+| Warm-up              | Warm up with [[My Bonnie Lies Over The Ocean]], having them both sing and do the game.                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                           |
+| Execution            | Sing through [[I Am Getting Such A Headache]] slowly, doing each part once separately, then adding them together twice, switching parts on the second time through. Then do it with the recording. Have them sight read through [[When The Saints Go Marching In]] without having the words, just singing on "la." Sing through it as a class, repeating lines when needed depending on how many already know it. Do the same thing with [[She'll Be Coming 'Round The Mountain]]. Then sing them in partner song form. |                                                                           |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
