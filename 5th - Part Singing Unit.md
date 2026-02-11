@@ -26,12 +26,12 @@ Post-Teaching Summary:
 
 ## Day Two: Partner Songs, cont.
 
-| ***Part of Lesson*** | ***Plan for Today***                                                                                  | ***Resources/Links*** |
-| -------------------- | ----------------------------------------------------------------------------------------------------- | --------------------- |
-| Concept              | We will continue using partner songs by building upon the previous lesson and introducing a new song. |                       |
-| Method               | Review [[I Am Getting Such A Headache]] and                                                           |                       |
-| Warm-up              |                                                                                                       |                       |
-| Execution            |                                                                                                       |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                  | ***Resources/Links***                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Concept              | We will continue using partner songs by building upon the previous lesson and introducing a new song. |                                                                           |
+| Method               | Review [[I Am Getting Such A Headache]] and then                                                      | https://musicplayonline.com/songs/i-am-getting-such-a-headache/?my_access |
+| Warm-up              |                                                                                                       |                                                                           |
+| Execution            |                                                                                                       |                                                                           |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
