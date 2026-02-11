@@ -41,3 +41,21 @@ Post-Teaching Summary:
 |             |                         |
 |             |                         |
 |             |                         |
+
+## Day Three: 
+
+| ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
+| -------------------- | -------------------- | --------------------- |
+| Concept              |                      |                       |
+| Method               |                      |                       |
+| Warm-up              |                      |                       |
+| Execution            |                      |                       |
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
