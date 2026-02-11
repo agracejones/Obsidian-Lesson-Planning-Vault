@@ -1,5 +1,6 @@
 - [ ] [[3rd-4th - Ragtime Unit]]
 	- [ ] Update to CME or figure out better format
+	- [ ] Plan day one
 - [ ] [[Kinder-2nd - Jazz Unit]]
 	- [ ] Update unit concepts
 	- [ ] Plan day four
