@@ -46,12 +46,12 @@ Post-Teaching Summary:
 
 ## Day Three: Rounds and Canons
 
-| ***Part of Lesson*** | ***Plan for Today***                                               | ***Resources/Links***                                                 |
-| -------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| Concept              | [[Round]], [[Canon]]                                               |                                                                       |
-| Method               | Use                                                                |                                                                       |
-| Warm-up              | Learn the song [[A Pizza Hut]] by rote and sing as a partner song. | https://musicplayonline.com/songs/a-pizza-hut/?my_access_code=S886743 |
-| Execution            |                                                                    |                                                                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                                                                                                                                  | ***Resources/Links***                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Concept              | [[Round]], [[Canon]]                                                                                                                                                                                                                  |                                                                                                                       |
+| Method               | Use the song [[Come Follow]] to practice singing in a round.                                                                                                                                                                          |                                                                                                                       |
+| Warm-up              | Learn the song [[A Pizza Hut]] by rote and sing as a partner song.                                                                                                                                                                    | https://musicplayonline.com/songs/a-pizza-hut/?my_access_code=S886743                                                 |
+| Execution            | Introduce the concept of a round; a song where both groups will sing the same part, but will start at different times. Have them sing [[Row, Row, Row Your Boat]]  Sight read [[Come Follow]] as a class, then sing through it twice. | https://musicplayonline.com/songs/come-follow/?my_access_code=S886743&modal=notation-6b199047afe94f76a41477fdb6081a75 |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
