@@ -1,3 +1,27 @@
+Unit Goals: Students will be able to recognize characteristics of ragtime music, recognize important figures in the history of the genre, and explore its influence on other styles of music.
+
+Unit Concepts:
+
+Grade Level: 3rd-4th
+## Day
+
+| ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
+| -------------------- | -------------------- | --------------------- |
+| Concept              |                      |                       |
+| Method               |                      |                       |
+| Warm-up              |                      |                       |
+| Execution            |                      |                       |
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+
+
 Unit: Ragtime
 
 Unit Goals: Students will be able to recognize characteristics of ragtime music, recognize important figures in the history of the genre, and explore its influence on other styles of music.
