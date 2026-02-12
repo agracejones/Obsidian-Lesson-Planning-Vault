@@ -1,9 +1,9 @@
-Unit Goals: Students will be able to recognize characteristics of ragtime music, recognize important figures in the history of the genre, and explore its influence on other styles of music.
+Unit Goals: Students will be able to recognize, read, and perform syncopated rhythms.
 
 Unit Concepts: [[Syncopation]]
 
 Grade Level: 3rd-4th
-## Day One: Intro to Ragtime
+## Day One: Syncopation in Ragtime
 
 | ***Part of Lesson*** | ***Plan for Today***                                                                                                                                                                                                                                                                                                                                                                                             | ***Resources/Links***                                                                                                    |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
