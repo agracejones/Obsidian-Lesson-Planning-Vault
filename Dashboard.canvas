@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"860d03821bb87bc4","type":"text","text":"# Current Units","x":50,"y":-560,"width":400,"height":100,"color":"6"},
 		{"id":"b89b5a56c0675efe","type":"file","file":"Current Units/Kinder-2nd - Jazz Unit.md","x":20,"y":-400,"width":460,"height":440,"color":"5"},
-		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Ragtime Unit]]\n\t- [ ] Update to CME or figure out better format\n\t- [ ] Plan day one\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Update unit concepts\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day three\n- [ ] Empty Files\n\t- [ ] [[Body Percussion]]\n\t- [ ] [[Partner Song]]","x":-380,"y":-560,"width":340,"height":600,"color":"3"}
+		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Ragtime Unit]]\n\t- [ ] Update to CME or figure out better format\n\t- [ ] Plan day one\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Update unit concepts\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day three\n- [ ] Empty Files\n\t- [ ] [[Syncopation]]\n\t- [ ] [[Partner Song]]","x":-380,"y":-560,"width":340,"height":600,"color":"3"}
 	],
 	"edges":[
 		{"id":"23c9105302041141","fromNode":"860d03821bb87bc4","fromSide":"bottom","toNode":"b89b5a56c0675efe","toSide":"top"}
