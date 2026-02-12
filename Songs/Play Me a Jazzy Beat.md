@@ -28,4 +28,4 @@ Like an afternoon kazoo!
 Doo, doo bee doo
 ## Other Notes
 
-Song follows a CMaj7/A7/D7/G7 ukulele chord progression. Alternate verses and improvisation times of the same length, having students stand in a circle while I walk around behind them. Whoever I am standing behind when I finish singing will get to improvise a beat, scat, or kazoo tune, and the class copies them one measure at a time. They then sit down.
+Song follows a CMaj7/A7/D7/G7 ukulele chord progression. Alternate verses and improvisation times of the same length, having students stand in a circle while I walk around behind them. Whoever I am standing behind when I finish singing will get to improvise a beat, scat, or kazoo tune, and the class copies them one measure at a time. Alternatively, for the beat variation, students can just pick a way to keep the steady beat. They then sit down.

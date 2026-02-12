@@ -44,11 +44,11 @@ Post-Teaching Summary:
 |             |                         |
 |             |                         |
 
-## Day Three: 
+## Day Three: Rounds and Canons
 
 | ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
 | -------------------- | -------------------- | --------------------- |
-| Concept              |                      |                       |
+| Concept              | [[Round]], [[Canon]] |                       |
 | Method               |                      |                       |
 | Warm-up              |                      |                       |
 | Execution            |                      |                       |
