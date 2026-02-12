@@ -46,12 +46,12 @@ Post-Teaching Summary:
 
 ## Day Three: Rounds and Canons
 
-| ***Part of Lesson*** | ***Plan for Today***           | ***Resources/Links*** |
-| -------------------- | ------------------------------ | --------------------- |
-| Concept              | [[Round]], [[Canon]]           |                       |
-| Method               | Use                            |                       |
-| Warm-up              | Learn the song [[A Pizza Hut]] |                       |
-| Execution            |                                |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                               | ***Resources/Links***                                                 |
+| -------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| Concept              | [[Round]], [[Canon]]                                               |                                                                       |
+| Method               | Use                                                                |                                                                       |
+| Warm-up              | Learn the song [[A Pizza Hut]] by rote and sing as a partner song. | https://musicplayonline.com/songs/a-pizza-hut/?my_access_code=S886743 |
+| Execution            |                                                                    |                                                                       |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
