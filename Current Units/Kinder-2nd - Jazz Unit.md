@@ -19,13 +19,13 @@ Grade Level: Kindergarten, 1st grade, 2nd grade
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***   | ***Summary and Notes***                                                                                                                                                                                          |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edmiston 2-12 | I need to switch up the order; the song followed by the book followed by the video was too much sitting! Also instead of improvising a rhythm, I think just picking a way to keep a steady beat would be better. |
+|               |                                                                                                                                                                                                                  |
+|               |                                                                                                                                                                                                                  |
+|               |                                                                                                                                                                                                                  |
+|               |                                                                                                                                                                                                                  |
  
 ## Day Two: Improvisation through movement and voice
 
