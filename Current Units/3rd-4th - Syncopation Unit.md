@@ -22,11 +22,11 @@ Post-Teaching Summary:
 |             |                         |
 |             |                         |
 
-## Day
+## Day Two: Ti-Ta-Ti
 
 | ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
 | -------------------- | -------------------- | --------------------- |
-| Concept              |                      |                       |
+| Concept              | [[Syncopation]]      |                       |
 | Method               |                      |                       |
 | Warm-up              |                      |                       |
 | Execution            |                      |                       |
