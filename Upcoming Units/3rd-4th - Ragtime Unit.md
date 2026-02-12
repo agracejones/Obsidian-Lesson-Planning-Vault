@@ -5,12 +5,12 @@ Unit Concepts:
 Grade Level: 3rd-4th
 ## Day
 
-| ***Part of Lesson*** | ***Plan for Today***     | ***Resources/Links*** |
-| -------------------- | ------------------------ | --------------------- |
-| Concept              | [[Body Percussion]]      |                       |
-| Method               | Use the Maple Leaf Rag p |                       |
-| Warm-up              |                          |                       |
-| Execution            |                          |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                             | ***Resources/Links***                       |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Concept              | [[Body Percussion]]                                                                                                              |                                             |
+| Method               | Use the Maple Leaf Rag video to get accustomed to the feel of ragtime and provide a challenge for keeping up with the movements. | https://www.youtube.com/watch?v=KwwWAE8UyMc |
+| Warm-up              |                                                                                                                                  |                                             |
+| Execution            |                                                                                                                                  |                                             |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
