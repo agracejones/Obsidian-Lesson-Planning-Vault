@@ -5,12 +5,12 @@ Unit Concepts:
 Grade Level: 3rd-4th
 ## Day
 
-| ***Part of Lesson*** | ***Plan for Today***                                                                                                             | ***Resources/Links***                       |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Concept              | [[Body Percussion]]                                                                                                              |                                             |
-| Method               | Use the Maple Leaf Rag video to get accustomed to the feel of ragtime and provide a challenge for keeping up with the movements. | https://www.youtube.com/watch?v=KwwWAE8UyMc |
-| Warm-up              | Watch the dynamic doodle video of Scott Joplin's life to introduce the class to ragtime.                                         | https://www.youtube.com/watch?v=8Ah7rgJGBvs |
-| Execution            |                                                                                                                                  |                                             |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                                                                    | ***Resources/Links***                       |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Concept              | [[Syncopation]]                                                                                                                                                         |                                             |
+| Method               | Use the Maple Leaf Rag video to get accustomed to the feel of ragtime and provide a challenge for keeping up with the movements.                                        | https://www.youtube.com/watch?v=KwwWAE8UyMc |
+| Warm-up              | Watch the dynamic doodle video of Scott Joplin's life to introduce the class to ragtime.                                                                                | https://www.youtube.com/watch?v=8Ah7rgJGBvs |
+| Execution            | For the body percussion video, start off by just listening to the song, then just clapping the rhythms, then doing all of the body percussion parts to the whole thing. |                                             |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
