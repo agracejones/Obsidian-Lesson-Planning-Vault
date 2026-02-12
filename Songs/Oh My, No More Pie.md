@@ -24,7 +24,7 @@ No more pie.
 ## Variations/Modifications
 #### Twelve Bar Blues version
 
-Sing with a 12BB chord progression in an AAB format. (Oh my, no more pie/I said oh my, no more pie/pie's too sweet, I want a piece of meat, etc.)
+Sing with a 12BB chord progression in an AAB format. (Oh my, no more pie/I said oh my, no more pie/pie's too sweet, I want a piece of meat, etc.) In this variation, end with "there's no more pie/I guess I'll just cry."
 
 ## Other Notes
 
