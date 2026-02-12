@@ -9,7 +9,7 @@ Grade Level: 3rd-4th
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | Concept              | [[Body Percussion]]                                                                                                              |                                             |
 | Method               | Use the Maple Leaf Rag video to get accustomed to the feel of ragtime and provide a challenge for keeping up with the movements. | https://www.youtube.com/watch?v=KwwWAE8UyMc |
-| Warm-up              |                                                                                                                                  |                                             |
+| Warm-up              | Watch the dynamic doodle video of Scott Joplin's life to introduce the class to ragtime.                                         | https://www.youtube.com/watch?v=8Ah7rgJGBvs |
 | Execution            |                                                                                                                                  |                                             |
 Post-Teaching Summary:
 
