@@ -57,7 +57,12 @@
 		{"id":"51d5bb049dedaa5a","type":"text","text":"3:10\n.","x":500,"y":-75,"width":140,"height":50},
 		{"id":"2b0267ddcac0ca74","type":"text","text":"3:20\n.","x":500,"y":-50,"width":140,"height":50},
 		{"id":"3b3ebab8a6ce2021","type":"text","text":"3:30\n.","x":500,"y":-25,"width":140,"height":50},
-		{"id":"bf5545d4353a4161","x":640,"y":-1225,"width":250,"height":150,"type":"text","text":"Staff PD"}
+		{"id":"bf5545d4353a4161","x":640,"y":-1225,"width":109,"height":150,"color":"2","type":"text","text":"Staff PD\n7:30-8:30"},
+		{"id":"21875b84e44af6f6","type":"text","text":"Prep\n8:30-9:30","x":640,"y":-1075,"width":109,"height":150},
+		{"id":"9a67cb79069dc317","type":"text","text":"Chapel\n9:35-10:05","x":640,"y":-925,"width":109,"height":100,"color":"2"},
+		{"id":"df904adbf16e4d24","type":"text","text":"Williams 10:10-10:40","x":640,"y":-825,"width":109,"height":75,"color":"5"},
+		{"id":"ad235285e7afb8d0","type":"text","text":"Recess 10:40-11:10","x":640,"y":-750,"width":109,"height":75,"color":"4"},
+		{"id":"47f00e7b9af00ad5","type":"text","text":"Williams 10:10-10:40","x":640,"y":-675,"width":109,"height":75,"color":"5"}
 	],
 	"edges":[
 		{"id":"23c9105302041141","fromNode":"860d03821bb87bc4","fromSide":"bottom","toNode":"b89b5a56c0675efe","toSide":"top","toEnd":"none"},
