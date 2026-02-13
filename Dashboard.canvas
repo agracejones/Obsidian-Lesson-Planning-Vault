@@ -1,12 +1,5 @@
 {
 	"nodes":[
-		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Syncopation Unit]]\n\t- [ ] Plan day two\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day four\n- [ ] Grading Day - progress reports and seating charts\n\t- [x] Alverson\n\t- [x] Edmiston\n\t- [x] Greene\n\t- [x] Bliven\n\t- [x] Chuprova\n\t- [x] Williams\n\t- [ ] Sparks\n\t- [ ] Pratt\n\t- [ ] Lowry\n\t- [ ] Adams\n- [ ] Grading Day - other random tasks\n\t- [ ] Second draft of Girl Code email\n\t- [ ] Email Girl Code teachers and parents\n\t- [ ] Bring in seltzer\n\t- [ ] Update sub binder\n\t\t- [ ] Cover\n\t\t- [ ] Edit first page\n\t\t- [ ] Finish emergency plans\n\t\t- [ ] Print and put into binder\n\t- [ ] Organize bookshelf\n\t- [x] Take down velcro dots\n\t- [ ] Go through papers in organizer\n\t- [x] Make Obsidian vault setup page","x":-420,"y":-1120,"width":380,"height":660,"color":"3"},
-		{"id":"c811e7e8d4cb4e2b","type":"text","text":"# Vault Information\n## Theme\nOrigami\n## Plugins\nFit\n\t**Github login:** agracejones\n\t**Personal access token (take out space before \"pat\"):** github pat_11B6G427A0qrtveZY2uauS_hvy8lW2bvUL8Byu8POKHX2weERgBnPBdQUlSlkNFING3EGC2FOHU9b46igE\n\t**Repository:** Obsidian-Lesson-Planning-Vault\nStyle Settings\n\t**Accent:** Eidolon\n\t**Light theme:** Solarized","x":-420,"y":-400,"width":380,"height":440,"color":"1"},
-		{"id":"e54e28b91aed6be2","type":"file","file":"Images/Psalm 57.jpg","x":20,"y":-1160,"width":260,"height":260},
-		{"id":"860d03821bb87bc4","type":"text","text":"# Current Units","x":20,"y":-870,"width":400,"height":110,"color":"6"},
-		{"id":"b89b5a56c0675efe","type":"file","file":"Current Units/Kinder-2nd - Jazz Unit.md","x":-10,"y":-700,"width":460,"height":160,"color":"5"},
-		{"id":"8200fa9207ef25a4","type":"file","file":"Current Units/3rd-4th - Syncopation Unit.md","x":-10,"y":-460,"width":460,"height":250,"color":"5"},
-		{"id":"a316376b08ca9070","type":"file","file":"Current Units/5th - Part Singing Unit.md","x":-10,"y":-140,"width":460,"height":180,"color":"5"},
 		{"id":"71ab11c05f27abca","type":"text","text":"7:30\n.","x":500,"y":-1225,"width":140,"height":50},
 		{"id":"008fb37a301aca1e","type":"text","text":"7:40\n.","x":500,"y":-1200,"width":140,"height":50},
 		{"id":"2f5ac1451564e447","type":"text","text":"7:50\n.","x":500,"y":-1175,"width":140,"height":50},
@@ -47,7 +40,6 @@
 		{"id":"d678a9b907a1e972","type":"text","text":"1:40\n.","x":500,"y":-300,"width":140,"height":50},
 		{"id":"8d2a3157697e5f03","type":"text","text":"1:50\n.","x":500,"y":-275,"width":140,"height":50},
 		{"id":"5b78ba3fef398d7c","type":"text","text":"2:00\n.","x":500,"y":-250,"width":140,"height":50},
-		{"id":"a034ff093f2bd082","type":"file","file":"Images/Colossians 3.jpg","x":-779,"y":-1120,"width":320,"height":320},
 		{"id":"f9d7cf89bfc570b1","type":"text","text":"2:10\n.","x":500,"y":-225,"width":140,"height":50},
 		{"id":"665ee165214705bb","type":"text","text":"2:20\n.","x":500,"y":-200,"width":140,"height":50},
 		{"id":"681e413bc4e9ecd7","type":"text","text":"2:30\n.","x":500,"y":-175,"width":140,"height":50},
@@ -128,7 +120,15 @@
 		{"id":"6a35f926beba11ce","type":"text","text":"Lowry 2:10-2:40","x":1076,"y":-225,"width":109,"height":75,"color":"5"},
 		{"id":"5695767273a40b3e","type":"text","text":"","x":1076,"y":-150,"width":109,"height":50},
 		{"id":"5727b2731a793224","type":"text","text":"Dismissal","x":1076,"y":-125,"width":109,"height":75,"color":"2"},
-		{"id":"7ab08762ec4a56ce","type":"text","text":"Prep 3:10-3:30","x":1076,"y":-75,"width":109,"height":100}
+		{"id":"7ab08762ec4a56ce","type":"text","text":"Prep 3:10-3:30","x":1076,"y":-75,"width":109,"height":100},
+		{"id":"e54e28b91aed6be2","type":"file","file":"Images/Psalm 57.jpg","x":20,"y":-1175,"width":175,"height":175},
+		{"id":"860d03821bb87bc4","type":"text","text":"# Current Units","x":20,"y":-970,"width":400,"height":110,"color":"6"},
+		{"id":"a034ff093f2bd082","type":"file","file":"Images/Colossians 3.jpg","x":243,"y":-1175,"width":177,"height":177},
+		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Syncopation Unit]]\n\t- [ ] Plan day two\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day four\n- [ ] Grading Day - progress reports and seating charts\n\t- [x] Alverson\n\t- [x] Edmiston\n\t- [x] Greene\n\t- [x] Bliven\n\t- [x] Chuprova\n\t- [x] Williams\n\t- [ ] Sparks\n\t- [ ] Pratt\n\t- [ ] Lowry\n\t- [ ] Adams\n- [ ] Grading Day - other random tasks\n\t- [ ] Second draft of Girl Code email\n\t- [ ] Email Girl Code teachers and parents\n\t- [ ] Bring in seltzer\n\t- [ ] Update sub binder\n\t\t- [ ] Cover\n\t\t- [ ] Edit first page\n\t\t- [ ] Finish emergency plans\n\t\t- [ ] Print and put into binder\n\t- [ ] Organize bookshelf\n\t- [x] Take down velcro dots\n\t- [ ] Go through papers in organizer\n\t- [x] Make Obsidian vault setup page","x":-420,"y":-1220,"width":380,"height":660,"color":"3"},
+		{"id":"c811e7e8d4cb4e2b","type":"text","text":"# Vault Information\n## Theme\nOrigami\n## Plugins\nFit\n\t**Github login:** agracejones\n\t**Personal access token (take out space before \"pat\"):** github pat_11B6G427A0qrtveZY2uauS_hvy8lW2bvUL8Byu8POKHX2weERgBnPBdQUlSlkNFING3EGC2FOHU9b46igE\n\t**Repository:** Obsidian-Lesson-Planning-Vault\nStyle Settings\n\t**Accent:** Eidolon\n\t**Light theme:** Solarized","x":-420,"y":-500,"width":380,"height":440,"color":"1"},
+		{"id":"b89b5a56c0675efe","type":"file","file":"Current Units/Kinder-2nd - Jazz Unit.md","x":-10,"y":-800,"width":460,"height":160,"color":"5"},
+		{"id":"8200fa9207ef25a4","type":"file","file":"Current Units/3rd-4th - Syncopation Unit.md","x":-10,"y":-560,"width":460,"height":250,"color":"5"},
+		{"id":"a316376b08ca9070","type":"file","file":"Current Units/5th - Part Singing Unit.md","x":-10,"y":-240,"width":460,"height":180,"color":"5"}
 	],
 	"edges":[
 		{"id":"23c9105302041141","fromNode":"860d03821bb87bc4","fromSide":"bottom","toNode":"b89b5a56c0675efe","toSide":"top","toEnd":"none"},
