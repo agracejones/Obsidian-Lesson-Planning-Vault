@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"b5b6f170280d2e2a","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
+		{"id":"bd3c64c54f3065c1","type":"text","text":"Emma Adams","x":-350,"y":-190,"width":140,"height":60},
+		{"id":"6e8b1087d8e11e42","type":"text","text":"Sawyer Bouldry","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
+		{"id":"32bdaefaa44a7045","type":"text","text":"","x":-70,"y":-190,"width":140,"height":60},
+		{"id":"2239b6b7dab4ff2c","type":"text","text":"","x":70,"y":-190,"width":140,"height":60},
+		{"id":"a3c33d91522c515c","type":"text","text":"","x":210,"y":-190,"width":140,"height":60},
+		{"id":"7e294b2b7ffdc062","type":"text","text":"Ronan Foster","x":-350,"y":-130,"width":140,"height":60,"color":"4"},
+		{"id":"80a0fcfa38afb0f3","type":"text","text":"Joshua Irwin","x":-210,"y":-130,"width":140,"height":60},
+		{"id":"a3e1eee75717288a","type":"text","text":"Colton Dale","x":-70,"y":-130,"width":140,"height":60},
+		{"id":"18d857e6ae545659","type":"text","text":"Gracie Esparza","x":70,"y":-130,"width":140,"height":60,"color":"4"},
+		{"id":"1b888332fa0b9f4f","type":"text","text":"Maddie Farnsworth","x":210,"y":-130,"width":140,"height":60,"color":"4"},
+		{"id":"858567ea3a3e0ff8","type":"text","text":"Kalani Miller","x":-350,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"999873d856331b5a","type":"text","text":"Myles Wattenbarger","x":-350,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"ed9ecac8f5283ad4","type":"text","text":"Addy Reavey","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"453d975c7958574e","type":"text","text":"Hattie Wells","x":-210,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"62ee02b38966d55c","type":"text","text":"Kaleb Mahoney","x":-70,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"ecf6a6c756bb5cd3","type":"text","text":"Fiona Robinson","x":-70,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"694e568e96110528","type":"text","text":"Lucy Lindell","x":70,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"86ca30cead6a1d73","type":"text","text":"Tessa Taylor","x":70,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"7d8fa1570d4dd281","type":"text","text":"Ellena Karnes","x":210,"y":-70,"width":140,"height":60},
+		{"id":"0c338e52898dbb51","type":"text","text":"Grayson Ward","x":210,"y":-10,"width":140,"height":60,"color":"4"}
+	],
+	"edges":[]
+}
