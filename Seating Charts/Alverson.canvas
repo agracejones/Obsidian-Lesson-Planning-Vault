@@ -9,7 +9,8 @@
 		{"id":"f05897c05296c07b","type":"text","text":"Cole Gray","x":160,"y":-180,"width":140,"height":60,"color":"4"},
 		{"id":"b46186fb68112f21","type":"text","text":"Raegan Slezak","x":160,"y":-120,"width":140,"height":60},
 		{"id":"187bc70b37066f8c","type":"text","text":"","x":300,"y":-180,"width":140,"height":60},
-		{"id":"9dd6adfea62127b0","type":"text","text":"Maya Mather","x":300,"y":-120,"width":140,"height":60,"color":"4"}
+		{"id":"9dd6adfea62127b0","type":"text","text":"Maya Mather","x":300,"y":-120,"width":140,"height":60,"color":"4"},
+		{"id":"8f13bceb1bae63f8","x":-260,"y":-20,"width":700,"height":100,"type":"text","text":"Notes:\n"}
 	],
 	"edges":[]
 }
