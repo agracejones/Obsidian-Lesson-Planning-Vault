@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"0bccf615aa29ecd4","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
+		{"id":"e64938e5e9724a63","type":"text","text":"Brynlee Fanning","x":-350,"y":-190,"width":140,"height":60},
+		{"id":"e7891eed121b7e51","type":"text","text":"Kora Traff","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
+		{"id":"ebf11080766bcbbf","type":"text","text":"Juniper Cady","x":-70,"y":-190,"width":140,"height":60,"color":"4"},
+		{"id":"4b523c1f51c34422","type":"text","text":"James Manning","x":70,"y":-190,"width":140,"height":60,"color":"4"},
+		{"id":"49e1437259b19517","type":"text","text":"Brinley Bloedel","x":210,"y":-190,"width":140,"height":60,"color":"4"},
+		{"id":"83dc3033da8c5abd","type":"text","text":"Syla O'Shea","x":-350,"y":-130,"width":140,"height":60},
+		{"id":"caf8fa0b8958e549","type":"text","text":"Sophie Compton","x":-210,"y":-130,"width":140,"height":60},
+		{"id":"5c4e4acb68492edf","type":"text","text":"Ashton Wood","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
+		{"id":"c2b618b95f00e6a5","type":"text","text":"Hadley Hopfer","x":70,"y":-130,"width":140,"height":60,"color":"4"},
+		{"id":"66b4b20ad2f12efb","type":"text","text":"Josie Bacon","x":210,"y":-130,"width":140,"height":60},
+		{"id":"d91bc372c81028c3","type":"text","text":"Braxton Gould","x":-350,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"01d7dd744f8d00bd","type":"text","text":"Zane Schott","x":-350,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"76fe54cebf08d4c3","type":"text","text":"Elliana Lathrop","x":-210,"y":-70,"width":140,"height":60},
+		{"id":"3b67f862823e88e1","type":"text","text":"Olivia Garcia","x":-210,"y":-10,"width":140,"height":60},
+		{"id":"f13a4927740113a7","type":"text","text":"Olive Rolfson","x":-70,"y":-70,"width":140,"height":60},
+		{"id":"f75701fa2020a1dc","type":"text","text":"Kaylee Daniells","x":-70,"y":-10,"width":140,"height":60},
+		{"id":"33b25a6ec2650e87","type":"text","text":"Jackson Martin","x":70,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"de69d0085335119d","type":"text","text":"Brooklynn Edmiston","x":70,"y":-10,"width":140,"height":60},
+		{"id":"9b269f899dfd7d35","type":"text","text":"Leia Aki","x":210,"y":-70,"width":140,"height":60,"color":"4"},
+		{"id":"ef37c851971b97ec","type":"text","text":"Carter Garvin","x":210,"y":-10,"width":140,"height":60}
+	],
+	"edges":[]
+}
