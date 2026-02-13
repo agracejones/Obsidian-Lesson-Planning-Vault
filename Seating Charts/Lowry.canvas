@@ -20,7 +20,9 @@
 		{"id":"ce61a9ebd30315e8","type":"text","text":"","x":210,"y":-190,"width":140,"height":60},
 		{"id":"437b1bc589a56b82","type":"text","text":"","x":210,"y":-130,"width":140,"height":60},
 		{"id":"efed391687cf2656","type":"text","text":"","x":210,"y":-70,"width":140,"height":60},
-		{"id":"b8d22d611761233c","type":"text","text":"","x":210,"y":-10,"width":140,"height":60}
+		{"id":"b8d22d611761233c","type":"text","text":"","x":210,"y":-10,"width":140,"height":60},
+		{"id":"28cbe690162ed03e","type":"text","text":"### Wednesday Plans\n\n","x":-350,"y":256,"width":350,"height":135,"color":"2"},
+		{"id":"3a7e2a1099121b1c","type":"text","text":"### Friday Plans\n\n","x":0,"y":256,"width":350,"height":135,"color":"#723f1d"}
 	],
 	"edges":[]
 }

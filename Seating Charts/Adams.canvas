@@ -20,7 +20,9 @@
 		{"id":"694e568e96110528","type":"text","text":"Lucy Lindell","x":70,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"86ca30cead6a1d73","type":"text","text":"Tessa Taylor","x":70,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"7d8fa1570d4dd281","type":"text","text":"Ellena Karnes","x":210,"y":-70,"width":140,"height":60},
-		{"id":"0c338e52898dbb51","type":"text","text":"Grayson Ward","x":210,"y":-10,"width":140,"height":60,"color":"4"}
+		{"id":"0c338e52898dbb51","type":"text","text":"Grayson Ward","x":210,"y":-10,"width":140,"height":60,"color":"4"},
+		{"id":"602c92a521467f4a","type":"text","text":"### Tuesday Plans\n\n","x":-350,"y":248,"width":350,"height":135,"color":"#dfc130"},
+		{"id":"1ce9fad0771b12fd","type":"text","text":"### Thursday Plans\n\n","x":0,"y":248,"width":350,"height":135,"color":"#51329a"}
 	],
 	"edges":[]
 }

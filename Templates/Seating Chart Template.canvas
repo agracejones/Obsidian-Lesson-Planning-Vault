@@ -20,7 +20,9 @@
 		{"id":"26e08fd2329dc80e","type":"text","text":"","x":70,"y":-130,"width":140,"height":60},
 		{"id":"4f0abe227e890fc0","type":"text","text":"","x":70,"y":-70,"width":140,"height":60},
 		{"id":"4b1c0c16bf90d839","type":"text","text":"","x":210,"y":-130,"width":140,"height":60},
-		{"id":"9c9b79cb6a674850","type":"text","text":"","x":210,"y":-70,"width":140,"height":60}
+		{"id":"9c9b79cb6a674850","type":"text","text":"","x":210,"y":-70,"width":140,"height":60},
+		{"id":"57b578c161ec1c18","type":"text","text":"### ______ Plans\n\n","x":-350,"y":180,"width":350,"height":135,"color":"1"},
+		{"id":"23b5b6ffbbbae053","type":"text","text":"### ___ Plans\n\n","x":0,"y":180,"width":350,"height":135,"color":"2"}
 	],
 	"edges":[]
 }
