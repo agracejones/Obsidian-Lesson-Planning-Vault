@@ -11,8 +11,8 @@
 		{"id":"acd61de58d853cc3","type":"text","text":"Avayah Carillo","x":200,"y":-120,"width":140,"height":60},
 		{"id":"94d30b3c6820971f","type":"text","text":"Ryker Bowman","x":340,"y":-120,"width":140,"height":60},
 		{"id":"5c6753b6d781ec93","type":"text","text":"Notes:\n-Don't sit Lexi and Annie together, they will talk. Same with Jacob and Ryker.","x":-220,"y":-20,"width":700,"height":100},
-		{"id":"1d0c81e3275e3957","type":"text","text":"### Tuesday Plans\n\n","x":-220,"y":133,"width":350,"height":135,"color":"#dfc130"},
-		{"id":"6375bbe0e3afeb3d","type":"text","text":"### Thursday Plans\n\n","x":130,"y":133,"width":350,"height":135,"color":"#51329a"}
+		{"id":"1d0c81e3275e3957","type":"text","text":"### Tuesday Plans\n\n[[Kinder-2nd - Jazz Unit]] Day two\n","x":-220,"y":133,"width":350,"height":135,"color":"#dfc130"},
+		{"id":"6375bbe0e3afeb3d","type":"text","text":"### Thursday Plans\n\n[[Kinder-2nd - Jazz Unit]] Day three","x":130,"y":133,"width":350,"height":135,"color":"#51329a"}
 	],
 	"edges":[]
 }

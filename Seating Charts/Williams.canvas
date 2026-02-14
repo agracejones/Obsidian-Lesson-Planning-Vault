@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0bccf615aa29ecd4","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
+		{"id":"0bccf615aa29ecd4","type":"text","text":"Notes: 23rd is boomwhacker fun day","x":-350,"y":90,"width":700,"height":100},
 		{"id":"e64938e5e9724a63","type":"text","text":"Brynlee Fanning","x":-350,"y":-190,"width":140,"height":60},
 		{"id":"e7891eed121b7e51","type":"text","text":"Kora Traff","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"ebf11080766bcbbf","type":"text","text":"Juniper Cady","x":-70,"y":-190,"width":140,"height":60,"color":"4"},

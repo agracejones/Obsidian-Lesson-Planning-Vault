@@ -21,8 +21,8 @@
 		{"id":"fab08a2d1c7abdfa","type":"text","text":"Ava Sines","x":70,"y":-10,"width":140,"height":60},
 		{"id":"bdc350242d8f551b","type":"text","text":"Harper Glodt","x":210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"9898af682b4a96ba","type":"text","text":"Lukas Adams","x":210,"y":-10,"width":140,"height":60},
-		{"id":"b24eb93e691b42a8","type":"text","text":"### Tuesday Plans\n\n","x":-350,"y":241,"width":350,"height":135,"color":"#dfc130"},
-		{"id":"eba4a3f5a9529ae7","type":"text","text":"### Thursday Plans\n\n","x":0,"y":241,"width":350,"height":135,"color":"#51329a"}
+		{"id":"b24eb93e691b42a8","type":"text","text":"### Tuesday Plans\n\nBoomwhacker fun day","x":-350,"y":241,"width":350,"height":135,"color":"#dfc130"},
+		{"id":"eba4a3f5a9529ae7","type":"text","text":"### Thursday Plans\n\n[[3rd-4th - Syncopation Unit]] Day one","x":0,"y":241,"width":350,"height":135,"color":"#51329a"}
 	],
 	"edges":[]
 }
