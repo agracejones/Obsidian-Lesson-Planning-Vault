@@ -9,7 +9,7 @@
 		{"id":"60c94e9199280d32","type":"text","text":"Lucas Wells","x":-210,"y":-130,"width":140,"height":60},
 		{"id":"f868027111143a4e","type":"text","text":"Tuviah Rolfson","x":-70,"y":-130,"width":140,"height":60},
 		{"id":"7867b3c78c42f36a","type":"text","text":"Eleazar Ramos","x":70,"y":-130,"width":140,"height":60},
-		{"id":"3a15ca76a294de8b","type":"text","text":"Samson Schreiner","x":210,"y":-190,"width":140,"height":60},
+		{"id":"3a15ca76a294de8b","type":"text","text":"Samson Schreiner","x":210,"y":-190,"width":140,"height":60,"color":"2"},
 		{"id":"af5fdebb75d96cf5","type":"text","text":"Wyatt Kamph","x":210,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"9a602649c4da7dbb","type":"text","text":"David Bondar","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"d5bff4ebf6b71d12","type":"text","text":"Gentry Goforth","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
