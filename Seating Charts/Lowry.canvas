@@ -9,7 +9,7 @@
 		{"id":"260d569206df5a5a","type":"text","text":"Zaina Grenz","x":-70,"y":-130,"width":140,"height":60},
 		{"id":"bebc047518782a1d","type":"text","text":"Emmett Alverson","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"32d09a46db489d15","type":"text","text":"Karson Lindell","x":-350,"y":-10,"width":140,"height":60},
-		{"id":"6af92de3f54a79a6","type":"text","text":"Tatum Wylie","x":-210,"y":-70,"width":140,"height":60},
+		{"id":"6af92de3f54a79a6","type":"text","text":"Tatum Wylie","x":-210,"y":-70,"width":140,"height":60,"color":"2"},
 		{"id":"03cf8c6cdd6c770b","type":"text","text":"Ivory Voisine","x":-210,"y":-10,"width":140,"height":60},
 		{"id":"3ba985ed353e55c5","type":"text","text":"Jaxon Hodson","x":-70,"y":-70,"width":140,"height":60},
 		{"id":"da7fd7269fcd31bd","type":"text","text":"Ryden Bloedel","x":-70,"y":-10,"width":140,"height":60},
