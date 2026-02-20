@@ -101,7 +101,7 @@
 		{"id":"36fce10ea9252e4e","type":"text","text":"In Sparks 12:10-1:10","x":967,"y":-525,"width":109,"height":150,"color":"2"},
 		{"id":"e5c4f5e4f6e987b1","type":"text","text":"Prep 1:10-1:30","x":967,"y":-375,"width":109,"height":51},
 		{"id":"1a1fe9ebd5eaa86a","type":"text","text":"Prep\n7:30-9:30","x":1076,"y":-1225,"width":109,"height":300},
-		{"id":"cfe267add64051fa","type":"text","text":"Alverson 9:30-10:00","x":1076,"y":-925,"width":109,"height":75,"color":"5"},
+		{"id":"cfe267add64051fa","type":"text","text":"[[Alverson]] 9:30-10:00","x":1076,"y":-925,"width":109,"height":75,"color":"5"},
 		{"id":"3cfffcccb9066f74","type":"text","text":"","x":1076,"y":-850,"width":109,"height":50},
 		{"id":"7f47fc983b11a96e","type":"text","text":"Pratt\n10:10-10:40","x":1076,"y":-825,"width":109,"height":75,"color":"5"},
 		{"id":"ce71b343f5a02f4c","type":"text","text":"Recess 10:40-11:10","x":1076,"y":-750,"width":109,"height":75,"color":"4"},

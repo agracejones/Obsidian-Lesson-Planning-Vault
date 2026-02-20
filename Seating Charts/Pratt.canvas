@@ -21,8 +21,8 @@
 		{"id":"78017eda4432e6cf","type":"text","text":"Emmerson Neal","x":210,"y":-130,"width":140,"height":60},
 		{"id":"533cc4446399a5c5","type":"text","text":"Emma Haber","x":210,"y":-70,"width":140,"height":60},
 		{"id":"4b2e2b54aa4035d1","type":"text","text":"Blaine Cameron","x":210,"y":-10,"width":140,"height":60},
-		{"id":"4c833114011b2b75","type":"text","text":"### Wednesday Plans\n\nBoomwhacker fun day\n","x":-350,"y":249,"width":350,"height":135,"color":"2"},
-		{"id":"cd3bc67792f15282","type":"text","text":"### Friday Plans\n\n[[3rd-4th - Syncopation Unit]] Day one","x":0,"y":249,"width":350,"height":135,"color":"#723f1d"}
+		{"id":"4c833114011b2b75","type":"text","text":"### Wednesday Plans\n\nSub\n","x":-350,"y":249,"width":350,"height":135,"color":"2"},
+		{"id":"cd3bc67792f15282","type":"text","text":"### Friday Plans\n\nBoomwhacker fun day","x":0,"y":249,"width":350,"height":135,"color":"#723f1d"}
 	],
 	"edges":[]
 }

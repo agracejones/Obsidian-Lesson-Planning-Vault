@@ -21,8 +21,8 @@
 		{"id":"de69d0085335119d","type":"text","text":"Brooklynn Edmiston","x":70,"y":-10,"width":140,"height":60},
 		{"id":"9b269f899dfd7d35","type":"text","text":"Leia Aki","x":210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"ef37c851971b97ec","type":"text","text":"Carter Garvin","x":210,"y":-10,"width":140,"height":60},
-		{"id":"70d50720f4c92067","type":"text","text":"### Monday Plans\n\nNo school Monday","x":-350,"y":237,"width":350,"height":135,"color":"1"},
-		{"id":"eb9aa4b92aabdb39","type":"text","text":"### Wednesday Plans\n\nChoice Day","x":0,"y":237,"width":350,"height":135,"color":"2"}
+		{"id":"70d50720f4c92067","type":"text","text":"### Monday Plans\n\nChoice Day","x":-350,"y":237,"width":350,"height":135,"color":"1"},
+		{"id":"eb9aa4b92aabdb39","type":"text","text":"### Wednesday Plans\n\nBoomwhacker fun day","x":0,"y":237,"width":350,"height":135,"color":"2"}
 	],
 	"edges":[]
 }

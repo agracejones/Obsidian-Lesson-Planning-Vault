@@ -21,8 +21,8 @@
 		{"id":"c145874e02b3ed5b","type":"text","text":"Abby VanHoy","x":70,"y":-10,"width":140,"height":60},
 		{"id":"929631d00b2e591b","type":"text","text":"Melody Robinson","x":210,"y":-70,"width":140,"height":60},
 		{"id":"25105d74e2b180b5","type":"text","text":"Jet Leigh","x":210,"y":-10,"width":140,"height":60},
-		{"id":"0aa5846bbdb11e21","type":"text","text":"### Monday Plans\n\nNo school Monday","x":-350,"y":261,"width":350,"height":135,"color":"1"},
-		{"id":"d6521f4a98cf812f","type":"text","text":"### Wednesday Plans\n[[Kinder-2nd - Jazz Unit]] Day One\n","x":0,"y":261,"width":350,"height":135,"color":"2"}
+		{"id":"0aa5846bbdb11e21","type":"text","text":"### Monday Plans\n\n[[Kinder-2nd - Jazz Unit]] Day one","x":-350,"y":261,"width":350,"height":135,"color":"1"},
+		{"id":"d6521f4a98cf812f","type":"text","text":"### Wednesday Plans\n[[Kinder-2nd - Jazz Unit]] Day Two\n","x":0,"y":261,"width":350,"height":135,"color":"2"}
 	],
 	"edges":[]
 }
