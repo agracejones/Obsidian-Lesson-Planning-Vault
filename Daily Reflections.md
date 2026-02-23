@@ -1,18 +1,18 @@
 ## 2/23-2/27/2026
 
-|                      | Monday | Tuesday | Wednesday | Thursday | Friday |
-| -------------------- | ------ | ------- | --------- | -------- | ------ |
-| Adams                |        |         |           |          |        |
-| Alverson             |        |         |           |          |        |
-| Bliven               |        |         |           |          |        |
-| Chuprova             |        |         |           |          |        |
-| Edmiston             |        |         |           |          |        |
-| Greene               |        |         |           |          |        |
-| Lowry                |        |         |           |          |        |
-| Pratt                |        |         |           |          |        |
-| Sparks               |        |         |           |          |        |
-| Williams             |        |         |           |          |        |
-| **General Thoughts** |        |         |           |          |        |
+|                      | Monday                                       | Tuesday | Wednesday | Thursday | Friday |
+| -------------------- | -------------------------------------------- | ------- | --------- | -------- | ------ |
+| Adams                |                                              |         |           |          |        |
+| Alverson             |                                              |         |           |          |        |
+| Bliven               |                                              |         |           |          |        |
+| Chuprova             |                                              |         |           |          |        |
+| Edmiston             |                                              |         |           |          |        |
+| Greene               |                                              |         |           |          |        |
+| Lowry                |                                              |         |           |          |        |
+| Pratt                |                                              |         |           |          |        |
+| Sparks               |                                              |         |           |          |        |
+| Williams             | Had choice day today! They were pretty loud. |         |           |          |        |
+| **General Thoughts** |                                              |         |           |          |        |
 
 
 ## 2/16-2/20/2026
