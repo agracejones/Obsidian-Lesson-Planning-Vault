@@ -1,18 +1,18 @@
 ## 2/23-2/27/2026
 
-|                      | Monday                                       | Tuesday | Wednesday | Thursday | Friday |
-| -------------------- | -------------------------------------------- | ------- | --------- | -------- | ------ |
-| Adams                |                                              |         |           |          |        |
-| Alverson             |                                              |         |           |          |        |
-| Bliven               |                                              |         |           |          |        |
-| Chuprova             |                                              |         |           |          |        |
-| Edmiston             |                                              |         |           |          |        |
-| Greene               |                                              |         |           |          |        |
-| Lowry                |                                              |         |           |          |        |
-| Pratt                |                                              |         |           |          |        |
-| Sparks               |                                              |         |           |          |        |
-| Williams             | Had choice day today! They were pretty loud. |         |           |          |        |
-| **General Thoughts** |                                              |         |           |          |        |
+|                      | Monday                                                                                                                                                                                                                                                                    | Tuesday | Wednesday | Thursday | Friday |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | -------- | ------ |
+| Adams                |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Alverson             |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Bliven               | They were so loud and disruptive today that we only got up through the video. I had them watch the whole thing because I was too tired to try and refocus them for the song or story. Probably not a good thing but whatever. Plus they got here five minutes late again. |         |           |          |        |
+| Chuprova             |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Edmiston             |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Greene               |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Lowry                |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Pratt                |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Sparks               |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| Williams             | Had choice day today! They were pretty loud.                                                                                                                                                                                                                              |         |           |          |        |
+| **General Thoughts** |                                                                                                                                                                                                                                                                           |         |           |          |        |
 
 
 ## 2/16-2/20/2026
