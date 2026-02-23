@@ -8,7 +8,7 @@
 		{"id":"32540a786feae83a","type":"text","text":"Ellis Potter","x":210,"y":-190,"width":140,"height":60},
 		{"id":"053de3232e90a6d4","type":"text","text":"Odin Anonson","x":-350,"y":-130,"width":140,"height":60},
 		{"id":"772b2c1439c368b6","type":"text","text":"Grant Stephenson","x":-210,"y":-130,"width":140,"height":60},
-		{"id":"a35d4763f7466379","type":"text","text":"Poppy Hughes","x":-70,"y":-130,"width":140,"height":60},
+		{"id":"a35d4763f7466379","type":"text","text":"Poppy Hughes","x":-70,"y":-130,"width":140,"height":60,"color":"3"},
 		{"id":"77b8329ba91986c2","type":"text","text":"Wyatt West","x":70,"y":-130,"width":140,"height":60},
 		{"id":"313f4e4db3168a4f","type":"text","text":"Huxlee Lamma","x":210,"y":-130,"width":140,"height":60},
 		{"id":"9a7887c3771e87aa","type":"text","text":"Grace Lucas","x":-350,"y":-70,"width":140,"height":60},
