@@ -17,13 +17,13 @@ Grade Level: 5th
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***   | ***Summary and Notes***                                                                                                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adams 2-24-26 | It was more of a struggle than expected! I think I need to start them with just the rhythm, chanting the phrases at the two different speeds and putting them together. Then add the sight reading component. |
+|               |                                                                                                                                                                                                               |
+|               |                                                                                                                                                                                                               |
+|               |                                                                                                                                                                                                               |
+|               |                                                                                                                                                                                                               |
 
 
 ## Day Two: Partner Songs, cont.
