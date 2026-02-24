@@ -7,7 +7,7 @@
 		{"id":"2239b6b7dab4ff2c","type":"text","text":"","x":70,"y":-190,"width":140,"height":60},
 		{"id":"a3c33d91522c515c","type":"text","text":"","x":210,"y":-190,"width":140,"height":60},
 		{"id":"7e294b2b7ffdc062","type":"text","text":"Ronan Foster","x":-350,"y":-130,"width":140,"height":60,"color":"4"},
-		{"id":"80a0fcfa38afb0f3","type":"text","text":"Joshua Irwin","x":-210,"y":-130,"width":140,"height":60},
+		{"id":"80a0fcfa38afb0f3","type":"text","text":"Joshua Irwin","x":-210,"y":-130,"width":140,"height":60,"color":"2"},
 		{"id":"a3e1eee75717288a","type":"text","text":"Colton Dale","x":-70,"y":-130,"width":140,"height":60},
 		{"id":"18d857e6ae545659","type":"text","text":"Gracie Esparza","x":70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"1b888332fa0b9f4f","type":"text","text":"Maddie Farnsworth","x":210,"y":-130,"width":140,"height":60,"color":"4"},
