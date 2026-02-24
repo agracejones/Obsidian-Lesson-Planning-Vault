@@ -42,14 +42,14 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***        | ***Summary and Notes***                           |
+| ------------------ | ------------------------------------------------- |
+| Edmiston 2-24-2026 | Ended up doing the Danny Go after QOTD because th |
+|                    |                                                   |
+|                    |                                                   |
+|                    |                                                   |
+|                    |                                                   |
+|                    |                                                   |
 ## Day Three: Kazoo Improvisation
 
 | ***Part of Lesson***             | ***Plan for today***                      | ***Links and Notes***                                                                                                                                                                    | ***Time*** |
