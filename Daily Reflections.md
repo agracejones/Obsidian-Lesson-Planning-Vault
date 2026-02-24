@@ -12,7 +12,7 @@
 | Pratt                |                                                                                                                                                                                                                                                                           |         |           |          |        |
 | Sparks               |                                                                                                                                                                                                                                                                           |         |           |          |        |
 | Williams             | Had choice day today! They were pretty loud.                                                                                                                                                                                                                              |         |           |          |        |
-| **General Thoughts** |                                                                                                                                                                                                                                                                           |         |           |          |        |
+| **General Thoughts** | Busy day, kinda stressful. I'm still getting over being sick and I had to take over Mrs. Sparks' class for most of the day when I wasn't teaching music.                                                                                                                  |         |           |          |        |
 
 
 ## 2/16-2/20/2026
