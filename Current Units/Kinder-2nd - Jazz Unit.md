@@ -42,14 +42,14 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class***        | ***Summary and Notes***                                                                                                 |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| Edmiston 2-24-2026 | Ended up doing the Danny Go after QOTD because they had a lot of energy and it gave them a familiar frame of reference. |
-|                    |                                                                                                                         |
-|                    |                                                                                                                         |
-|                    |                                                                                                                         |
-|                    |                                                                                                                         |
-|                    |                                                                                                                         |
+| ***Class***        | ***Summary and Notes***                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Edmiston 2-24-2026 | Ended up doing the Danny Go after QOTD because they had a lot of energy and it gave them a familiar frame of reference. We still had time for ev |
+|                    |                                                                                                                                                  |
+|                    |                                                                                                                                                  |
+|                    |                                                                                                                                                  |
+|                    |                                                                                                                                                  |
+|                    |                                                                                                                                                  |
 ## Day Three: Kazoo Improvisation
 
 | ***Part of Lesson***             | ***Plan for today***                      | ***Links and Notes***                                                                                                                                                                    | ***Time*** |
