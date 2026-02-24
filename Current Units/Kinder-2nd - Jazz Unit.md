@@ -23,7 +23,7 @@ Post-Teaching Summary:
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Edmiston 2-12-26 | I need to switch up the order; the song followed by the book followed by the video was too much sitting! Also instead of improvising a rhythm, I think just picking a way to keep a steady beat would be better. |
 | Alverson 2-20-26 | Went really well and the timing worked out perfectly!                                                                                                                                                            |
-|                  |                                                                                                                                                                                                                  |
+| Bliven 2-23-26   | They were super loud and we only got through the video. Next time I will skip the story and just do the Play Me A Beat instead of the song variation.                                                            |
 |                  |                                                                                                                                                                                                                  |
 |                  |                                                                                                                                                                                                                  |
  
