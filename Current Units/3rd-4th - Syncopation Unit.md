@@ -17,7 +17,7 @@ Post-Teaching Summary:
 | ***Class***   | ***Summary and Notes***                                                                                                      |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Williams 2-25 | Not sure the big picture fully came into focus. Syncopation is such a vague and nebulous thing to describe to third graders! |
-|               |                                                                                                                              |
+| Pratt 2-25    | They were super talkative but the teaching went way better                                                                   |
 |               |                                                                                                                              |
 |               |                                                                                                                              |
 |               |                                                                                                                              |
