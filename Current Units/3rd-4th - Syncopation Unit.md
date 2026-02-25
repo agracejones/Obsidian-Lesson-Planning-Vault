@@ -14,13 +14,13 @@ Grade Level: 3rd-4th
 
 Post-Teaching Summary:
 
-| ***Class***   | ***Summary and Notes***                                                                                                      |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Williams 2-25 | Not sure the big picture fully came into focus. Syncopation is such a vague and nebulous thing to describe to third graders! |
-| Pratt 2-25    | They were super talkative but the teaching went way better                                                                   |
-|               |                                                                                                                              |
-|               |                                                                                                                              |
-|               |                                                                                                                              |
+| ***Class***   | ***Summary and Notes***                                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Williams 2-25 | Not sure the big picture fully came into focus. Syncopation is such a vague and nebulous thing to describe to third graders!                                       |
+| Pratt 2-25    | They were super talkative but the teaching went way better than Williams' class! I drew out the 1+2+... beats on the board and that really helped as a visual aid. |
+|               |                                                                                                                                                                    |
+|               |                                                                                                                                                                    |
+|               |                                                                                                                                                                    |
 
 ## Day Two: Ti-Ta-Ti
 
