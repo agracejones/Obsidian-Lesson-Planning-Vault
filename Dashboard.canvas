@@ -85,7 +85,7 @@
 		{"id":"7f47fc983b11a96e","type":"text","text":"[[Pratt.canvas|Pratt]]\n10:10-10:40","x":1099,"y":-825,"width":115,"height":75,"color":"5"},
 		{"id":"ce71b343f5a02f4c","type":"text","text":"Recess 10:40-11:10","x":1099,"y":-750,"width":115,"height":75,"color":"4"},
 		{"id":"860d03821bb87bc4","type":"text","text":"# Current Units","x":20,"y":-970,"width":400,"height":110,"color":"6"},
-		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Syncopation Unit]]\n\t- [ ] Plan day two\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day four","x":-279,"y":-1220,"width":239,"height":660,"color":"3"},
+		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Syncopation Unit]]\n\t- [ ] Plan day two\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day four\n- [ ] Wedesday\n\t- [ ] ","x":-279,"y":-1220,"width":239,"height":660,"color":"3"},
 		{"id":"c811e7e8d4cb4e2b","type":"text","text":"# Vault Information\n## Theme\nOrigami\n## Plugins\nFit\n\t**Github login:** agracejones\n\t**Personal access token (take out space before \"pat\"):** github pat_11B6G427A0qrtveZY2uauS_hvy8lW2bvUL8Byu8POKHX2weERgBnPBdQUlSlkNFING3EGC2FOHU9b46igE\n\t**Repository:** Obsidian-Lesson-Planning-Vault\nStyle Settings\n\t**Accent:** Eidolon\n\t**Light theme:** Solarized","x":-420,"y":-500,"width":380,"height":400,"color":"1"},
 		{"id":"b89b5a56c0675efe","type":"file","file":"Current Units/Kinder-2nd - Jazz Unit.md","x":-10,"y":-800,"width":460,"height":160,"color":"5"},
 		{"id":"108df568c8375b31","type":"text","text":"# 3rd-4th - Boomwhacker Unit","x":-10,"y":-575,"width":460,"height":225,"color":"5"},
