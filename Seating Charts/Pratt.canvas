@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f38722403b120855","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
+		{"id":"f38722403b120855","type":"text","text":"Notes: Re-do seating chart to sep","x":-350,"y":90,"width":700,"height":100},
 		{"id":"45b0faedaf2f288e","type":"text","text":"Mayley Jones","x":-350,"y":-190,"width":140,"height":60},
 		{"id":"1e4c8107a87f510b","type":"text","text":"Thomas Robinson","x":-210,"y":-190,"width":140,"height":60},
 		{"id":"e95e6eed0ea2a5d2","type":"text","text":"Jonathan VanHoy","x":-70,"y":-190,"width":140,"height":60},
@@ -9,7 +9,7 @@
 		{"id":"ead0c60fe4f82c12","type":"text","text":"Aubry Chamblin","x":-350,"y":-130,"width":140,"height":60},
 		{"id":"21a5192463f57718","type":"text","text":"Everly Sarapin","x":-210,"y":-130,"width":140,"height":60},
 		{"id":"40e84321b190494a","type":"text","text":"Brant Eudy","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
-		{"id":"ae2919f5314fc162","type":"text","text":"Abby Herndon","x":70,"y":-130,"width":140,"height":60},
+		{"id":"ae2919f5314fc162","type":"text","text":"Abby Herndon","x":70,"y":-130,"width":140,"height":60,"color":"2"},
 		{"id":"179a921edf9b53ea","type":"text","text":"Isabel McCormick","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"1c440c3ad7a341a4","type":"text","text":"Cora Kearns","x":-350,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"08333c9a30392f47","type":"text","text":"Dash Hildebrandt","x":-210,"y":-70,"width":140,"height":60},
