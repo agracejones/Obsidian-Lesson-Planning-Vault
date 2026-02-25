@@ -25,7 +25,7 @@ Post-Teaching Summary:
 | Alverson 2-20-26 | Went really well and the timing worked out perfectly!                                                                                                                                                            |
 | Bliven 2-23-26   | They were super loud and we only got through the video. Next time I will skip the story and just do the Play Me A Beat instead of the song variation.                                                            |
 | Greene 2-24-26   | We got up through Play Me A Beat, but I only had the back row do it. I also told them about the kazoos so they have time to earn them.                                                                           |
-|                  |                                                                                                                                                                                                                  |
+| Chuprova 2-25-26 | Everything except the book. I had to talk over them a lot; they've been turning around and messing with their neighbors quite a bit.                                                                             |
  
 ## Day Two: Improvisation through movement and voice
 
