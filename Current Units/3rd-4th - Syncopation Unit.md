@@ -18,7 +18,7 @@ Post-Teaching Summary:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Williams 2-25-26 | Not sure the big picture fully came into focus. Syncopation is such a vague and nebulous thing to describe to third graders!                                       |
 | Pratt 2-25-26    | They were super talkative but the teaching went way better than Williams' class! I drew out the 1+2+... beats on the board and that really helped as a visual aid. |
-| Sparks 2-26-26   |                                                                                                                                                                    |
+| Sparks 2-26-26   | We actually ended early so we did a boomwhacker video of the entertainer.                                                                                          |
 |                  |                                                                                                                                                                    |
 |                  |                                                                                                                                                                    |
 
