@@ -65,14 +65,14 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***      | ***Summary and Notes***                                                        |
+| ---------------- | ------------------------------------------------------------------------------ |
+| Edmiston 2-26-26 | I didn't give out kazoos today, but I had them practice with imaginary kazoos. |
+|                  |                                                                                |
+|                  |                                                                                |
+|                  |                                                                                |
+|                  |                                                                                |
+|                  |                                                                                |
 
 ## Day Four: Question and Answer Improv Form
 

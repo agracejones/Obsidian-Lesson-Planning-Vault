@@ -11,7 +11,7 @@
 		{"id":"69e9ae9246a34aca","type":"text","text":"Walter Falzone","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"5114acc6c4a8f6db","type":"text","text":"Mae Karnes","x":70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"c960f1b815d8745e","type":"text","text":"Jaelynn Slezak","x":210,"y":-130,"width":140,"height":60,"color":"4"},
-		{"id":"8a4a3d34edad6c0c","type":"text","text":"Hudson","x":-350,"y":-70,"width":140,"height":60},
+		{"id":"8a4a3d34edad6c0c","type":"text","text":"Hudson DuPont","x":-350,"y":-70,"width":140,"height":60,"color":"#a846af"},
 		{"id":"9f1c55d0eb18f135","type":"text","text":"Levi Bergman","x":-350,"y":-10,"width":140,"height":60},
 		{"id":"59dd618c38faf893","type":"text","text":"Penny Lewellyn","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"67a5cb586f3fbe25","type":"text","text":"Romy Stone","x":-210,"y":-10,"width":140,"height":60},
