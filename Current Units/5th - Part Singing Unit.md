@@ -36,13 +36,13 @@ Post-Teaching Summary:
 | Execution            | Sing through [[I Am Getting Such A Headache]] slowly, doing each part once separately, then adding them together twice, switching parts on the second time through. Then do it with the recording. Have them sight read through [[When The Saints Go Marching In]] without having the words, just singing on "la." Sing through it as a class, repeating lines when needed depending on how many already know it. Do the same thing with [[She'll Be Coming 'Round The Mountain]]. Then sing them in partner song form. |                                                                           |
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***   | ***Summary and Notes***                                                                                                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adams 2-26-26 | I had to have the "round the mountain" group sing "oh" before their first word to get them to sing at the same time as "when the saints," but they did it successfully right at the end! Definitely select groups by who sings louder, not just random. |
+|               |                                                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                                                         |
 
 ## Day Three: Rounds and Canons
 

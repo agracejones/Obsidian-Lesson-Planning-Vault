@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"b5b6f170280d2e2a","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
-		{"id":"bd3c64c54f3065c1","type":"text","text":"Emma Adams","x":-350,"y":-190,"width":140,"height":60},
+		{"id":"bd3c64c54f3065c1","type":"text","text":"Emma Adams","x":-350,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"6e8b1087d8e11e42","type":"text","text":"Sawyer Bouldry","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"32bdaefaa44a7045","type":"text","text":"","x":-70,"y":-190,"width":140,"height":60},
 		{"id":"2239b6b7dab4ff2c","type":"text","text":"","x":70,"y":-190,"width":140,"height":60},
