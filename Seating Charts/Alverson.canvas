@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"7189f28717581b43","type":"text","text":"Steele Paulsen","x":-260,"y":-180,"width":140,"height":60},
-		{"id":"f5795c1e2afe4b9d","type":"text","text":"Zeke Martin","x":-260,"y":-120,"width":140,"height":60},
+		{"id":"f5795c1e2afe4b9d","type":"text","text":"Zeke Martin","x":-260,"y":-120,"width":140,"height":60,"color":"4"},
 		{"id":"488bf4563778db71","type":"text","text":"Frankie Kammann","x":-120,"y":-180,"width":140,"height":60},
 		{"id":"e7bf2a93717b97da","type":"text","text":"Addison Webber","x":-120,"y":-120,"width":140,"height":60},
 		{"id":"ed9e409c85eaf04a","type":"text","text":"Phoebe Kalinowski","x":20,"y":-180,"width":140,"height":60},

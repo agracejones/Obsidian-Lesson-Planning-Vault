@@ -65,14 +65,14 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class***      | ***Summary and Notes***                                                        |
-| ---------------- | ------------------------------------------------------------------------------ |
-| Edmiston 2-26-26 | I didn't give out kazoos today, but I had them practice with imaginary kazoos. |
-|                  |                                                                                |
-|                  |                                                                                |
-|                  |                                                                                |
-|                  |                                                                                |
-|                  |                                                                                |
+| ***Class***      | ***Summary and Notes***                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Edmiston 2-26-26 | I didn't give out kazoos today, but I had them practice with imaginary kazoos.                                     |
+| Alverson 2-27-26 | Just barely got through everything! They did good, but lots of them needed to use the bathroom. I only let two go. |
+|                  |                                                                                                                    |
+|                  |                                                                                                                    |
+|                  |                                                                                                                    |
+|                  |                                                                                                                    |
 
 ## Day Four: Question and Answer Improv Form
 
