@@ -47,7 +47,7 @@ Post-Teaching Summary:
 | Edmiston 2-24-2026 | Ended up doing the Danny Go after QOTD because they had a lot of energy and it gave them a familiar frame of reference. We still had time for everything! I did the beat variation of the song again, though. |
 | Alverson 2-25      | Did the same order as Edmiston and it worked great!                                                                                                                                                           |
 | Bliven 2-25-26     | Did the same order but didn't get to Play Me a Jazzy Beat, A String of Pearls, or most of Hey Yo because they were five minutes late. They also kept yelling and getting off track.                           |
-|                    |                                                                                                                                                                                                               |
+| Greene 2-27-26     | Literally only did QOTD, scat blues, and hey yo. They were crazy today because they had the super strict sub so they were off the walls in music.                                                             |
 |                    |                                                                                                                                                                                                               |
 |                    |                                                                                                                                                                                                               |
 ## Day Three: Kazoo Improvisation
