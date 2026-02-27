@@ -24,12 +24,12 @@ Post-Teaching Summary:
 
 ## Day Two: Ti-Ta-Ti
 
-| ***Part of Lesson*** | ***Plan for Today***                                                   | ***Resources/Links*** |
-| -------------------- | ---------------------------------------------------------------------- | --------------------- |
-| Concept              | [[Syncopation]]                                                        |                       |
-| Method               | Use the song [[Syncocopation]] to practice singing syncopated rhythms. |                       |
-| Warm-up              |                                                                        |                       |
-| Execution            |                                                                        |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                                 | ***Resources/Links*** |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| Concept              | [[Syncopation]]                                                                                                                      |                       |
+| Method               | Use the song [[Syncocopation]] to practice singing syncopated rhythms and then practice reading them by playing [[Steal the Bacon]]. |                       |
+| Warm-up              |                                                                                                                                      |                       |
+| Execution            |                                                                                                                                      |                       |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
