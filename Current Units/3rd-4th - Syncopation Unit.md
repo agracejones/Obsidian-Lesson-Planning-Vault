@@ -42,12 +42,12 @@ Post-Teaching Summary:
 
 ## Day Three: Reading syncopated rhythms
 
-| ***Part of Lesson*** | ***Plan for Today***                                                                       | ***Resources/Links*** |
-| -------------------- | ------------------------------------------------------------------------------------------ | --------------------- |
-| Concept              | [[Syncopation]]                                                                            |                       |
-| Method               | Continue learning the song [[Syncocopation]] and work on sight reading syncopated rhythms. |                       |
-| Warm-up              | Play a round or two of [[Steal the Bacon]] using syncopated rhythms.                       |                       |
-| Execution            |                                                                                            |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                                                                                  | ***Resources/Links***                                                                                                                                              |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Concept              | [[Syncopation]]                                                                                                                                       |                                                                                                                                                                    |
+| Method               | Continue learning the song [[Syncocopation]] and work on sight reading syncopated rhythms. Play [[Steal the Bacon]] to lock in concepts in a fun way. |                                                                                                                                                                    |
+| Warm-up              | Go through a few of the rhythms in the reading assessment video as a class, then ask for volunteers to do some on their own.                          | https://musicplayonline.com/practice/q-qr-q-h-eq-e/?student_cache_key=open_11bc7507934b9e3cc53cbed75834eb83&modal=1-q-qr-q-h-eq-e-8e00655e3c709363b5ba064cebdf1b7d |
+| Execution            | Split into two groups and practice the two ostinatos for [[Syncocopation]                                                                             |                                                                                                                                                                    |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
