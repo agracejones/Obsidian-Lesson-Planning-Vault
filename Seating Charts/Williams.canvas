@@ -10,7 +10,7 @@
 		{"id":"caf8fa0b8958e549","type":"text","text":"Sophie Compton","x":-210,"y":-130,"width":140,"height":60},
 		{"id":"5c4e4acb68492edf","type":"text","text":"Ashton Wood","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"c2b618b95f00e6a5","type":"text","text":"Hadley Hopfer","x":70,"y":-130,"width":140,"height":60,"color":"4"},
-		{"id":"66b4b20ad2f12efb","type":"text","text":"Josie Bacon","x":210,"y":-130,"width":140,"height":60},
+		{"id":"66b4b20ad2f12efb","type":"text","text":"Josie Bacon","x":210,"y":-130,"width":140,"height":60,"color":"2"},
 		{"id":"d91bc372c81028c3","type":"text","text":"Braxton Gould","x":-350,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"01d7dd744f8d00bd","type":"text","text":"Zane Schott","x":-350,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"76fe54cebf08d4c3","type":"text","text":"Elliana Lathrop","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
