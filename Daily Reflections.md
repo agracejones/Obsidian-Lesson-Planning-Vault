@@ -1,3 +1,19 @@
+## 3/2-3/6/2026
+
+|                      | Monday | Tuesday | Wednesday | Thursday | Friday |
+| -------------------- | ------ | ------- | --------- | -------- | ------ |
+| Adams                |        |         |           |          |        |
+| Alverson             |        |         |           |          |        |
+| Bliven               |        |         |           |          |        |
+| Chuprova             |        |         |           |          |        |
+| Edmiston             |        |         |           |          |        |
+| Greene               |        |         |           |          |        |
+| Lowry                |        |         |           |          |        |
+| Pratt                |        |         |           |          |        |
+| Sparks               |        |         |           |          |        |
+| Williams             |        |         |           |          |        |
+| **General Thoughts** |        |         |           |          |        |
+
 ## 2/23-2/27/2026
 
 |                      | Monday                                                                                                                                                                                                                                                                    | Tuesday                                                                                                                                                                                                                                                                  | Wednesday                                                                                                                                                                                                                                                                                    | Thursday                                                                                                                                                                                                                                                                                 | Friday                                                                                                                                                                |

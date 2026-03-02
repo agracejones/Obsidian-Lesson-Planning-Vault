@@ -122,12 +122,12 @@
 		{"id":"5695767273a40b3e","type":"text","text":"","x":1099,"y":-150,"width":115,"height":50},
 		{"id":"5727b2731a793224","type":"text","text":"Dismissal","x":1099,"y":-125,"width":115,"height":75,"color":"2"},
 		{"id":"7ab08762ec4a56ce","type":"text","text":"Prep 3:10-3:30","x":1099,"y":-75,"width":115,"height":100},
-		{"id":"a7b120a0e838d93c","type":"file","file":"Daily Reflections.md","x":-865,"y":-1245,"width":1287,"height":490,"color":"4"},
+		{"id":"a7b120a0e838d93c","type":"file","file":"Daily Reflections.md","x":-865,"y":-1225,"width":1287,"height":470,"color":"4"},
 		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] [[3rd-4th - Syncopation Unit]]\n\t- [ ] Plan day two\n- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] Plan day four\n- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Plan day four\n- [ ] Wednesday\n\t- [x] Review [[3rd-4th - Syncopation Unit]] lesson for today\n\t- [x] Respond to emails\n\t- [ ] Prepare Girl Code for tomorrow\n\t- [ ] Prepare piano lesson materials\n\t- [ ] Prepare 3rd/4th day two\n\t- [x] Write emails to pio pals parents","x":183,"y":-700,"width":239,"height":660,"color":"3"},
 		{"id":"c811e7e8d4cb4e2b","type":"text","text":"# Vault Information\n## Theme\nOrigami\n## Plugins\nFit\n\t**Github login:** agracejones\n\t**Personal access token (take out space before \"pat\"):** github pat_11B6G427A0qrtveZY2uauS_hvy8lW2bvUL8Byu8POKHX2weERgBnPBdQUlSlkNFING3EGC2FOHU9b46igE\n\t**Repository:** Obsidian-Lesson-Planning-Vault\nStyle Settings\n\t**Accent:** Eidolon\n\t**Light theme:** Solarized","x":-865,"y":-700,"width":558,"height":400,"color":"1"},
-		{"id":"e54e28b91aed6be2","type":"file","file":"Images/Psalm 57.jpg","x":-254,"y":-431,"width":400,"height":400},
-		{"id":"22bbb28592824509","type":"text","text":"## This week's lessons\n#### -[[Kinder-2nd - Jazz Unit]] days 2, 3, 4\n#### -[[3rd-4th - Syncopation Unit]] days 2, 3\n#### -[[5th - Part Singing Unit]] day 3","x":-827,"y":-249,"width":400,"height":200,"color":"5"},
-		{"id":"a034ff093f2bd082","type":"file","file":"Images/Colossians 3.jpg","x":-254,"y":-591,"width":283,"height":283}
+		{"id":"22bbb28592824509","type":"text","text":"## This week's lessons\n#### -[[Kinder-2nd - Jazz Unit]] days 2, 3, 4\n#### -[[3rd-4th - Syncopation Unit]] days 2, 3\n#### -[[5th - Part Singing Unit]] day 3","x":-865,"y":-249,"width":558,"height":199,"color":"5"},
+		{"id":"a034ff093f2bd082","type":"file","file":"Images/Colossians 3.jpg","x":-254,"y":-687,"width":400,"height":400},
+		{"id":"e54e28b91aed6be2","type":"file","file":"Images/Psalm 57.jpg","x":-254,"y":-424,"width":400,"height":400}
 	],
 	"edges":[]
 }
