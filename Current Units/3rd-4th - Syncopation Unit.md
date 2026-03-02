@@ -44,8 +44,8 @@ Post-Teaching Summary:
 
 | ***Part of Lesson*** | ***Plan for Today***                                                 | ***Resources/Links*** |
 | -------------------- | -------------------------------------------------------------------- | --------------------- |
-| Concept              |                                                                      |                       |
-| Method               |                                                                      |                       |
+| Concept              | [[Syncopation]]                                                      |                       |
+| Method               | Continue learning the song [[Syncocopation]] and                     |                       |
 | Warm-up              | Play a round or two of [[Steal the Bacon]] using syncopated rhythms. |                       |
 | Execution            |                                                                      |                       |
 Post-Teaching Summary:
