@@ -42,12 +42,12 @@ Post-Teaching Summary:
 
 ## Day Three: Reading syncopated rhythms
 
-| ***Part of Lesson*** | ***Plan for Today***                                                 | ***Resources/Links*** |
-| -------------------- | -------------------------------------------------------------------- | --------------------- |
-| Concept              | [[Syncopation]]                                                      |                       |
-| Method               | Continue learning the song [[Syncocopation]] and                     |                       |
-| Warm-up              | Play a round or two of [[Steal the Bacon]] using syncopated rhythms. |                       |
-| Execution            |                                                                      |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                                       | ***Resources/Links*** |
+| -------------------- | ------------------------------------------------------------------------------------------ | --------------------- |
+| Concept              | [[Syncopation]]                                                                            |                       |
+| Method               | Continue learning the song [[Syncocopation]] and work on sight reading syncopated rhythms. |                       |
+| Warm-up              | Play a round or two of [[Steal the Bacon]] using syncopated rhythms.                       |                       |
+| Execution            |                                                                                            |                       |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
