@@ -32,6 +32,24 @@ Post-Teaching Summary:
 | Execution            | Add the lyrics to the [[Syncocopation]] ostinato and have the students clap on beats 2 and 4. Then introduce the "harmony" ostinato. Have all the students sing it together several times, still clapping. Now divide the class in half and assign one group to sing each ostinato. Sing separately before adding them together. Write out the "synco-co" rhythm on the board and discuss how it's called "ti-ta-ti." Then have them sing along with the song, singing their part whenever it comes up.<br><br>To play [[Steal the Bacon]], keep the two groups separate and assign each student a number (both groups should have the same numbers. If there is an uneven number, pick one student to help pick the rhythms for each round.) Have each group sit on opposite sides of the carpet with the "bacon" rhythm cards set out in the middle. First clap a rhythm, then call out a number. Each student with that number needs to go into the middle to find the corresponding card, check it with me, and bring it back to their team if it's correct. | https://musicplayonline.com/songs/syncocopation/?my_access_code=S886743&modal=notation-817eac753164130e42b1e4d3243400f7                                                                                                  |
 Post-Teaching Summary:
 
+| ***Class***   | ***Summary and Notes***                                                                                                                                                                                                 |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pratt 2-27-26 | It actually went pretty well! The students all engaged and participated in the song and got super hyped up over steal the bacon. We only got one round in so I'm definitely going to have to bring that back next time. |
+|               |                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                         |
+|               |                                                                                                                                                                                                                         |
+
+## Day Three: Reading syncopated rhythms
+
+| ***Part of Lesson*** | ***Plan for Today***                                                 | ***Resources/Links*** |
+| -------------------- | -------------------------------------------------------------------- | --------------------- |
+| Concept              |                                                                      |                       |
+| Method               |                                                                      |                       |
+| Warm-up              | Play a round or two of [[Steal the Bacon]] using syncopated rhythms. |                       |
+| Execution            |                                                                      |                       |
+Post-Teaching Summary:
+
 | ***Class*** | ***Summary and Notes*** |
 | ----------- | ----------------------- |
 |             |                         |
