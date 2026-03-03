@@ -88,10 +88,10 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***     | ***Summary and Notes***                                        |
+| --------------- | -------------------------------------------------------------- |
+| Edmiston 3-3-36 | It went great! Maybe for future classes, have them pick their  |
+|                 |                                                                |
+|                 |                                                                |
+|                 |                                                                |
+|                 |                                                                |
