@@ -36,7 +36,7 @@ Post-Teaching Summary:
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pratt 2-27-26   | It actually went pretty well! The students all engaged and participated in the song and got super hyped up over steal the bacon. We only got one round in so I'm definitely going to have to bring that back next time. |
 | Williams 3-2-26 | They did pretty well! At the end Brinley Bloedel read out the rhythms for steal the bacon.                                                                                                                              |
-|                 |                                                                                                                                                                                                                         |
+| Sparks 3-3-26   | Not bad! They are super competitive so that made steal the bacon a little hard, but altogether pretty well.                                                                                                             |
 |                 |                                                                                                                                                                                                                         |
 |                 |                                                                                                                                                                                                                         |
 
