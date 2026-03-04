@@ -6,7 +6,7 @@
 		{"id":"3c2af36f2126400a","type":"text","text":"Bianca Bowman","x":-70,"y":-190,"width":140,"height":60},
 		{"id":"17d124738cae64f3","type":"text","text":"Allison Riggle","x":-350,"y":-130,"width":140,"height":60},
 		{"id":"f6d890060e1e89ac","type":"text","text":"Kaceson Slowik","x":-210,"y":-130,"width":140,"height":60},
-		{"id":"260d569206df5a5a","type":"text","text":"Zaina Grenz","x":-70,"y":-130,"width":140,"height":60},
+		{"id":"260d569206df5a5a","type":"text","text":"Zaina Grenz","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"bebc047518782a1d","type":"text","text":"Emmett Alverson","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"32d09a46db489d15","type":"text","text":"Karson Lindell","x":-350,"y":-10,"width":140,"height":60},
 		{"id":"6af92de3f54a79a6","type":"text","text":"Tatum Wylie","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
