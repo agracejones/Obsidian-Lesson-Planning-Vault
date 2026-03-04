@@ -50,10 +50,10 @@ Post-Teaching Summary:
 | Execution            | Split into two groups and practice the two ostinatos for [[Syncocopation]]. Learn the first verse by rote and sing through it a couple of times with the background music. If there is time at the end, play a couple of rounds of [[Steal the Bacon]]. If the numbers are uneven, let students volunteer to read the rhythms. | https://musicplayonline.com/songs/syncocopation/?my_access_code=S886743&modal=notation-817eac753164130e42b1e4d3243400f7                                            |
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***     | ***Summary and Notes***                                                                                                           |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Williams 3-4-26 | They did great! We got through verse one and the chorus of the song and they even kept singing since verse two has the same tune. |
+|                 |                                                                                                                                   |
+|                 |                                                                                                                                   |
+|                 |                                                                                                                                   |
+|                 |                                                                                                                                   |
