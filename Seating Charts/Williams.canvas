@@ -3,10 +3,6 @@
 		{"id":"0bccf615aa29ecd4","type":"text","text":"","x":-350,"y":90,"width":700,"height":100},
 		{"id":"70d50720f4c92067","type":"text","text":"### Monday Plans\n\n[[3rd-4th - Syncopation Unit]] Day two","x":-350,"y":237,"width":350,"height":135,"color":"1"},
 		{"id":"eb9aa4b92aabdb39","type":"text","text":"### Wednesday Plans\n\n[[3rd-4th - Syncopation Unit]] Day three","x":0,"y":237,"width":350,"height":135,"color":"2"},
-		{"id":"e64938e5e9724a63","type":"text","text":"Brynlee Fanning","x":-595,"y":-480,"width":140,"height":60},
-		{"id":"4b523c1f51c34422","type":"text","text":"James Manning","x":-175,"y":-480,"width":140,"height":60,"color":"4"},
-		{"id":"49e1437259b19517","type":"text","text":"Brinley Bloedel","x":-35,"y":-480,"width":140,"height":60,"color":"4"},
-		{"id":"f13a4927740113a7","type":"text","text":"Olive Rolfson","x":-315,"y":-360,"width":140,"height":60},
 		{"id":"3b67f862823e88e1","type":"text","text":"Olivia Garcia","x":-350,"y":-200,"width":140,"height":60},
 		{"id":"f75701fa2020a1dc","type":"text","text":"Kaylee Daniells","x":-350,"y":-140,"width":140,"height":60},
 		{"id":"de69d0085335119d","type":"text","text":"Brooklynn Edmiston","x":-210,"y":-200,"width":140,"height":60},
@@ -22,7 +18,11 @@
 		{"id":"83dc3033da8c5abd","type":"text","text":"Syla O'Shea","x":70,"y":-140,"width":140,"height":60},
 		{"id":"5c4e4acb68492edf","type":"text","text":"Ashton Wood","x":210,"y":-200,"width":140,"height":60,"color":"4"},
 		{"id":"c2b618b95f00e6a5","type":"text","text":"Hadley Hopfer","x":210,"y":-140,"width":140,"height":60,"color":"4"},
-		{"id":"caf8fa0b8958e549","type":"text","text":"Sophie Compton","x":-70,"y":-20,"width":140,"height":60}
+		{"id":"caf8fa0b8958e549","type":"text","text":"Sophie Compton","x":-70,"y":-20,"width":140,"height":60},
+		{"id":"49e1437259b19517","type":"text","text":"Brinley Bloedel","x":70,"y":-80,"width":140,"height":60,"color":"4"},
+		{"id":"4b523c1f51c34422","type":"text","text":"James Manning","x":70,"y":-20,"width":140,"height":60,"color":"4"},
+		{"id":"f13a4927740113a7","type":"text","text":"Olive Rolfson","x":210,"y":-80,"width":140,"height":60},
+		{"id":"e64938e5e9724a63","type":"text","text":"Brynlee Fanning","x":210,"y":-20,"width":140,"height":60}
 	],
 	"edges":[]
 }
