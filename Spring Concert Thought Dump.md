@@ -8,4 +8,4 @@
 - May 18th evening?
 ## 5th
 - Last day of school lead worship in the garden?
-- Or one of the other perf
+- Or one of the other performance evenings?
