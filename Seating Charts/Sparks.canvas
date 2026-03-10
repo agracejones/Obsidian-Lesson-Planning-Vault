@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"954d4b055adcbf07","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
-		{"id":"b24eb93e691b42a8","type":"text","text":"### Tuesday Plans\n\n[[3rd-4th - Syncopation Unit]] Day two","x":-350,"y":241,"width":350,"height":135,"color":"#dfc130"},
-		{"id":"eba4a3f5a9529ae7","type":"text","text":"### Thursday Plans\n\nNo school","x":0,"y":241,"width":350,"height":135,"color":"#51329a"},
+		{"id":"b24eb93e691b42a8","type":"text","text":"### Tuesday Plans\n\n[[3rd-4th - Syncopation Unit]] Day three","x":-350,"y":241,"width":350,"height":135,"color":"#dfc130"},
+		{"id":"eba4a3f5a9529ae7","type":"text","text":"### Thursday Plans\n\n[[3rd-4th - Syncopation Unit]] Day four","x":0,"y":241,"width":350,"height":135,"color":"#51329a"},
 		{"id":"9f1c55d0eb18f135","type":"text","text":"Levi Bergman","x":-350,"y":-220,"width":140,"height":60,"color":"4"},
 		{"id":"4efdcce0eebbe477","type":"text","text":"Colette Greene","x":-350,"y":-160,"width":140,"height":60,"color":"4"},
 		{"id":"69e9ae9246a34aca","type":"text","text":"Walter Falzone","x":-350,"y":-100,"width":140,"height":60,"color":"4"},
