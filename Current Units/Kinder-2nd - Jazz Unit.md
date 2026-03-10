@@ -99,7 +99,7 @@ Post-Teaching Summary:
 
 | ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
 | -------------------- | -------------------- | --------------------- |
-| Concept              |                      |                       |
+| Concept              | [[Improvisation]]    |                       |
 | Method               |                      |                       |
 | Warm-up              |                      |                       |
 | Execution            |                      |                       |
