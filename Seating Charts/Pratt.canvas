@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"f38722403b120855","type":"text","text":"","x":-350,"y":90,"width":700,"height":100},
-		{"id":"4c833114011b2b75","type":"text","text":"### Wednesday Plans\n\n[[3rd-4th - Syncopation Unit]] Day three\n","x":-350,"y":249,"width":350,"height":135,"color":"2"},
-		{"id":"cd3bc67792f15282","type":"text","text":"### Friday Plans\n\nNo school","x":0,"y":249,"width":350,"height":135,"color":"#723f1d"},
+		{"id":"4c833114011b2b75","type":"text","text":"### Wednesday Plans\n\n[[3rd-4th - Syncopation Unit]] Day four\n","x":-350,"y":249,"width":350,"height":135,"color":"2"},
+		{"id":"cd3bc67792f15282","type":"text","text":"### Friday Plans\n\n[[3rd-4th - Syncopation Unit]] Day five","x":0,"y":249,"width":350,"height":135,"color":"#723f1d"},
 		{"id":"78017eda4432e6cf","type":"text","text":"Emmerson Neal","x":-350,"y":-180,"width":140,"height":60},
 		{"id":"e95e6eed0ea2a5d2","type":"text","text":"Jonathan VanHoy","x":-350,"y":-120,"width":140,"height":60},
 		{"id":"4c6a71097fbbf2d7","type":"text","text":"Georgia Jones","x":-350,"y":-60,"width":140,"height":60},

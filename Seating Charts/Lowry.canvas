@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"45cf7db5c7636c7a","type":"text","text":"Notes:","x":-350,"y":90,"width":700,"height":100},
 		{"id":"28cbe690162ed03e","type":"text","text":"### Wednesday Plans\n\n[[5th - Part Singing Unit]] Day three","x":-350,"y":256,"width":350,"height":135,"color":"2"},
-		{"id":"3a7e2a1099121b1c","type":"text","text":"### Friday Plans\n\nNo school","x":0,"y":256,"width":350,"height":135,"color":"#723f1d"},
+		{"id":"3a7e2a1099121b1c","type":"text","text":"### Friday Plans\n\n[[5th - Part Singing Unit]] Day four","x":0,"y":256,"width":350,"height":135,"color":"#723f1d"},
 		{"id":"dce02b2274ce1a67","type":"text","text":"Jordan Pekarek","x":-350,"y":-200,"width":140,"height":60},
 		{"id":"03cf8c6cdd6c770b","type":"text","text":"Ivory Voisine","x":-350,"y":-140,"width":140,"height":60},
 		{"id":"44ee34ee3c983c5f","type":"text","text":"Brooklyn Levy","x":-350,"y":-80,"width":140,"height":60},
