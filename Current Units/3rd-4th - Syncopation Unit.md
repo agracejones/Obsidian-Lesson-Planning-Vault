@@ -53,7 +53,7 @@ Post-Teaching Summary:
 | ***Class***     | ***Summary and Notes***                                                                                                           |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Williams 3-4-26 | They did great! We got through verse one and the chorus of the song and they even kept singing since verse two has the same tune. |
-|                 |                                                                                                                                   |
+| Sparks 3-10-26  | I did a different thing with them so we only did the assessment.                                                                  |
 |                 |                                                                                                                                   |
 |                 |                                                                                                                                   |
 |                 |                                                                                                                                   |
