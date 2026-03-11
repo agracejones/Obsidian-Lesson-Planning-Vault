@@ -54,13 +54,13 @@ Post-Teaching Summary:
 | Execution            | Introduce the concept of a round; a song where both groups will sing the same part, but will start at different times. Have them sing [[Row, Row, Row Your Boat]] as a group, then split into two groups and sing as a round. Do again in three groups. Sight read [[Come Follow]] as a class, then sing through it twice. Follow the same round-singing method used with Row. | https://musicplayonline.com/songs/come-follow/?my_access_code=S886743&modal=notation-6b199047afe94f76a41477fdb6081a75 |
 Post-Teaching Summary:
 
-| ***Class***  | ***Summary and Notes***                                                                                                                                                                                                                  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Adams 3-3-26 | I am actually super impressed! They engaged with everything, even the boys. We did Row Row in four groups and they all held their own parts. We didn't sight read Come Follow, but I taught it by rote and they did really well with it. |
-|              |                                                                                                                                                                                                                                          |
-|              |                                                                                                                                                                                                                                          |
-|              |                                                                                                                                                                                                                                          |
-|              |                                                                                                                                                                                                                                          |
+| ***Class***   | ***Summary and Notes***                                                                                                                                                                                                                  |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adams 3-3-26  | I am actually super impressed! They engaged with everything, even the boys. We did Row Row in four groups and they all held their own parts. We didn't sight read Come Follow, but I taught it by rote and they did really well with it. |
+| Lowry 3-11-26 | They had some trouble participating fully                                                                                                                                                                                                |
+|               |                                                                                                                                                                                                                                          |
+|               |                                                                                                                                                                                                                                          |
+|               |                                                                                                                                                                                                                                          |
 
 ## Day Four: Two-Part Songs
 
