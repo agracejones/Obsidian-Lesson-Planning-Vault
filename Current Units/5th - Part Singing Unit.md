@@ -61,3 +61,21 @@ Post-Teaching Summary:
 |              |                                                                                                                                                                                                                                          |
 |              |                                                                                                                                                                                                                                          |
 |              |                                                                                                                                                                                                                                          |
+
+## Day Four: Two-Part Songs
+
+| ***Part of Lesson*** | ***Plan for Today***                            | ***Resources/Links***                                        |
+| -------------------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| Concept              | [[Harmony]]                                     |                                                              |
+| Method               | Use the song [[Evening Bell]] to teach harmony. |                                                              |
+| Warm-up              | [[A Pizza Hut]]                                 |                                                              |
+| Execution            | [[Evening Bell]]                                | https://www.bethsnotesplus.com/2024/04/the-evening-bell.html |
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
