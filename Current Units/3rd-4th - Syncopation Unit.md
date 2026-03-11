@@ -58,3 +58,20 @@ Post-Teaching Summary:
 |                 |                                                                                                                                   |
 |                 |                                                                                                                                   |
 
+## Day Four: Syncocopation
+
+| ***Part of Lesson*** | ***Plan for Today***                                                   | ***Resources/Links***                                                                                                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Concept              | [[Syncopation]]                                                        |                                                                                                                                                                                                                   |
+| Method               | Continue learning [[Syncocopation]] and practicing syncopated rhythms. |                                                                                                                                                                                                                   |
+| Warm-up              | Rhythm imposter video.                                                 | https://www.youtube.com/watch?v=0z2cqLzsV-k                                                                                                                                                                       |
+| Execution            | Learn [[Syncocopation]] verse two and sing the whole song.             | https://musicplayonline.com/songs/syncocopation/?student_cache_key=open_8ac9b82924efabd5aad0b9ae06dbc5d9&modal=concept-https-musicplayonline-com-activities-library-grade-4-syncocopation-one-slide-lyrics-copy-1 |
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
