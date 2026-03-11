@@ -111,10 +111,10 @@ Post-Teaching Summary:
 
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***      | ***Summary and Notes***                      |
+| ---------------- | -------------------------------------------- |
+| Alverson 3-11-26 | Had extra time so did string of pearls again |
+|                  |                                              |
+|                  |                                              |
+|                  |                                              |
+|                  |                                              |
