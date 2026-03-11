@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"45cf7db5c7636c7a","type":"text","text":"Notes:\nMarch madness after part singing unit","x":-350,"y":90,"width":700,"height":100},
+		{"id":"45cf7db5c7636c7a","type":"text","text":"Notes:\nMarch madness after part singing unit\nRedo seating chart to something different","x":-350,"y":90,"width":700,"height":100},
 		{"id":"28cbe690162ed03e","type":"text","text":"### Wednesday Plans\n\n[[5th - Part Singing Unit]] Day three","x":-350,"y":256,"width":350,"height":135,"color":"2"},
 		{"id":"3a7e2a1099121b1c","type":"text","text":"### Friday Plans\n\n[[5th - Part Singing Unit]] Day four","x":0,"y":256,"width":350,"height":135,"color":"#723f1d"},
 		{"id":"dce02b2274ce1a67","type":"text","text":"Jordan Pekarek","x":-350,"y":-200,"width":140,"height":60},
