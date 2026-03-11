@@ -68,7 +68,7 @@ Post-Teaching Summary:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Edmiston 2-26-26 | I didn't give out kazoos today, but I had them practice with imaginary kazoos.                                     |
 | Alverson 2-27-26 | Just barely got through everything! They did good, but lots of them needed to use the bathroom. I only let two go. |
-| Bliven 3-4-26    | No more question of the day for them.                                                                              |
+| Bliven 3-4-26    | No more question of the day for them. Finished lesson 3-11                                                         |
 | Chuprova 3-11-26 | Did everything except jazzy beat, book, and watching the video                                                     |
 |                  |                                                                                                                    |
 |                  |                                                                                                                    |
