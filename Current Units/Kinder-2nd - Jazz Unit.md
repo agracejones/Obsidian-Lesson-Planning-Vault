@@ -97,12 +97,18 @@ Post-Teaching Summary:
 
 ## Day Five: Kazoos
 
-| ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
-| -------------------- | -------------------- | --------------------- |
-| Concept              | [[Improvisation]]    |                       |
-| Method               |                      |                       |
-| Warm-up              |                      |                       |
-| Execution            |                      |                       |
+| ***Part of Lesson***             | ***Plan for today***                                                                                                                                                       | ***Links and Notes*** | ***Time*** |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- |
+| Pitch Exploration                | Instead of QOTD, have each student make a "kazoo roller coaster." They have to make a sound with the kazoo and draw the "shape" of the sound in the air with their finger. |                       |            |
+| Song Fragment                    | Sing and play [[I Like Singin']].                                                                                                                                          |                       |            |
+| Arioso                           | Play Kazoo charades. Have each student make animal sounds with their kazoos and the rest of the class has to guess the animal.                                             |                       |            |
+| Movement for Form and Expression |                                                                                                                                                                            |                       |            |
+| Short Song                       |                                                                                                                                                                            |                       |            |
+| Movement Exploration             |                                                                                                                                                                            |                       |            |
+| Beat Motion                      |                                                                                                                                                                            |                       |            |
+| Songtale/book                    |                                                                                                                                                                            |                       |            |
+| If extra time                    |                                                                                                                                                                            |                       |            |
+
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
