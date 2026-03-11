@@ -68,10 +68,10 @@ Post-Teaching Summary:
 | Execution            | Learn [[Syncocopation]] verse two and sing the whole song.             | https://musicplayonline.com/songs/syncocopation/?student_cache_key=open_8ac9b82924efabd5aad0b9ae06dbc5d9&modal=concept-https-musicplayonline-com-activities-library-grade-4-syncocopation-one-slide-lyrics-copy-1 |
 Post-Teaching Summary:
 
-| ***Class*** | ***Summary and Notes*** |
-| ----------- | ----------------------- |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
-|             |                         |
+| ***Class***      | ***Summary and Notes***   |
+| ---------------- | ------------------------- |
+| Williams 3-11-26 | Good job! Did everything. |
+|                  |                           |
+|                  |                           |
+|                  |                           |
+|                  |                           |
