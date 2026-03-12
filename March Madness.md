@@ -1,14 +1,12 @@
-Unit Goals:
+Goals: Students will listen to several different songs and analyze different characteristics, differentiate unique concepts, and explain their personal opinions about the songs.
 
-Unit Concepts:
+Concepts: [[Analysis]]
 
-Grade Level:
-
-## Day
+Grade Level: K-5
 
 | ***Part of Lesson*** | ***Plan for Today*** | ***Resources/Links*** |
 | -------------------- | -------------------- | --------------------- |
-| Concept              |                      |                       |
+| Concept              | [[Analysis]]         |                       |
 | Method               |                      |                       |
 | Warm-up              |                      |                       |
 | Execution            |                      |                       |
