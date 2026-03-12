@@ -22,7 +22,7 @@
 		{"id":"c960f1b815d8745e","type":"text","text":"Jaelynn Slezak","x":-210,"y":-160,"width":140,"height":60,"color":"4"},
 		{"id":"bdc350242d8f551b","type":"text","text":"Harper Glodt","x":-210,"y":-100,"width":140,"height":60,"color":"4"},
 		{"id":"59dd618c38faf893","type":"text","text":"Penny Lewellyn","x":-70,"y":-100,"width":140,"height":60,"color":"4"},
-		{"id":"8a4a3d34edad6c0c","type":"text","text":"Hudson DuPont","x":-70,"y":-160,"width":140,"height":60}
+		{"id":"8a4a3d34edad6c0c","type":"text","text":"Hudson DuPont","x":-70,"y":-160,"width":140,"height":60,"color":"4"}
 	],
 	"edges":[]
 }
