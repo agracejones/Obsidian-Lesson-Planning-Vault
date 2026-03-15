@@ -79,3 +79,21 @@ Post-Teaching Summary:
 |             |                         |
 |             |                         |
 |             |                         |
+
+## Day Five: Two-Part Songs, contd.
+
+| ***Part of Lesson*** | ***Plan for Today***                | ***Resources/Links*** |
+| -------------------- | ----------------------------------- | --------------------- |
+| Concept              | [[Harmony]]                         |                       |
+| Method               | Continue learning [[Evening Bell]]  |                       |
+| Warm-up              |                                     |                       |
+| Execution            |                                     |                       |
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
