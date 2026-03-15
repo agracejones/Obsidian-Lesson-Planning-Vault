@@ -82,12 +82,12 @@ Post-Teaching Summary:
 
 ## Day Five: Two-Part Songs, contd.
 
-| ***Part of Lesson*** | ***Plan for Today***                | ***Resources/Links*** |
-| -------------------- | ----------------------------------- | --------------------- |
-| Concept              | [[Harmony]]                         |                       |
-| Method               | Continue learning [[Evening Bell]]  |                       |
-| Warm-up              |                                     |                       |
-| Execution            |                                     |                       |
+| ***Part of Lesson*** | ***Plan for Today***                                                      | ***Resources/Links*** |
+| -------------------- | ------------------------------------------------------------------------- | --------------------- |
+| Concept              | [[Harmony]]                                                               |                       |
+| Method               | Continue learning [[Evening Bell]] and work on [[In Some Lady's Garden]]. |                       |
+| Warm-up              | Choir warmup - "yah yah yah yah yah" descending five notes                |                       |
+| Execution            | Keep learning evening bell, learn some lady's garden                      |                       |
 Post-Teaching Summary:
 
 | ***Class*** | ***Summary and Notes*** |
