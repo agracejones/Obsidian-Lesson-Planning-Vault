@@ -118,3 +118,32 @@ Post-Teaching Summary:
 |                  |                                              |
 |                  |                                              |
 |                  |                                              |
+Unit Concepts:
+
+Unit Goals:
+
+Grade Level:
+
+## Day Six
+
+| ***Part of Lesson***             | ***Plan for today***                                            | ***Links and Notes*** | ***Time*** |
+| -------------------------------- | --------------------------------------------------------------- | --------------------- | ---------- |
+| Pitch Exploration                | Kazoo rollercoasters                                            |                       |            |
+| Short Song                       | Watch video of it don't mean a thing if it ain't got that swing |                       |            |
+| Arioso                           | Sing it ain't hard to do when you're playing your kazoo         |                       |            |
+| Song Fragment                    | Play me a jazzy tune                                            |                       |            |
+| Songtale/book                    | Read a book if time                                             |                       |            |
+| Movement Exploration             |                                                                 |                       |            |
+| Movement for Form and Expression |                                                                 |                       |            |
+| Beat Motion                      |                                                                 |                       |            |
+| If extra time                    |                                                                 |                       |            |
+
+Post-Teaching Summary:
+
+| ***Class*** | ***Summary and Notes*** |
+| ----------- | ----------------------- |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
+|             |                         |
