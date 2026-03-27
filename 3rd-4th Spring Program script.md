@@ -22,4 +22,6 @@ Avery: Music is...well, it's the language of the world!
 Riley: Okay, so people everywhere sing and dance and stuff. So what?
 Jessie: What, haven't you ever just grooved to your favorite song?
 Riley: "Grooved?" Man, you sound like my Grandma.
-Jessie: You know what I mean
+Jessie: You know what I mean! You just put on your music and sing in the mirror and pretend you're the star of the show! It always makes me feel pumped up.
+Avery: Studies show that music affects the limbic system in the brain and can raise levels of dopamine, increasing mood and motivation.
+Alex: Dude, we're in fourth grade. Where are you learning this stud
