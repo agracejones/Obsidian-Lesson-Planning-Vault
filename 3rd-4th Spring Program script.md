@@ -31,4 +31,8 @@ Riley: What? No you didn't!
 Jessie: Yes, I did! Come on, I know you know it...*(singing)* Sing, sing, syncocopation....
 **Song: Syncocopation**
 Riley: So it's a *little* bit catchy. That doesn't mean I like singing.
-Alex: Woah, woah, woah! Who
+Alex: Woah, woah, woah! Who said music just has to be singing?
+Riley: Isn't that like the whole point? You can't do music without singing.
+Avery: Nonsense! People have used instruments to make music for thousands of years.
+Jessie: Yeah! Sometimes I like to just sit and play the ukulele along with my favorite songs.
+Riley: I guess that sounds nice...but I don't know how to paly
