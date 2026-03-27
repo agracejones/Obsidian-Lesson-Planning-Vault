@@ -46,3 +46,8 @@ Riley: That is kind of cool, I guess, but how am I supposed to play a song with 
 Alex: That's where we come in! *(Alex grabs more boomwhackers and gives one each to the other two.)* Teamwork makes the dream work...and in this case, it makes the song work. Okay, boomwhackers on three!
 All: *(Everyone holds their boomwhackers together in a teamwork chant)* One, two, three, boomwhackers!
 **Song: On Top of the World**
+Jessie: Woo! That was awesome!
+Alex: That rocked!
+Avery: Yeah, the harmonic layering of the different boomwhackers created chord structures and...I mean, it was fun!
+Riley: You know, I've been thinking about what you were saying. About people all over the world making music for thousands of years and stuff.
+Avery:
