@@ -13,6 +13,7 @@
 	- "Music is the Language of the World"
 	- Speaker: Music makes us groove
 	- "Syncocopation"
+	- 
 	- Speaker: Music is a way that people all over the world worship God
 	- "How Great is our God (World version)"
 ## 5th
