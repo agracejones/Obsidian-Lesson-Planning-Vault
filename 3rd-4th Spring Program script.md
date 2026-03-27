@@ -54,7 +54,9 @@ Avery: Oh, about resonant frequencies? I can explain it really quick if you're i
 Riley: Uh...no. I meant what you were saying about people all over the world making music for thousands of years and stuff. I guess I never thought about it before. I wonder what ancient music might have sounded like?
 Jessie: You know, my Sunday school class has been talking about the book of Psalms. My teacher said a lot of them were originally written as songs! A lot of them talk about singing and music.
 Bible Reader 1: Psalm 57:7. My heart is confident in you, O God; my heart is confident. No wonder I can sing your praises!
-Bible Reader 2: Shout to the Lord, all the earth; break out in praise and sing for joy!
-Bible Reader 3: Let everything that breathes sing praises to the Lord! Praise the Lord!
+Bible Reader 2: Psalm 98:4. Shout to the Lord, all the earth; break out in praise and sing for joy!
+Bible Reader 3: Psalm 150:6. Let everything that breathes sing praises to the Lord! Praise the Lord!
 Alex: Yeah, and they even talk about instruments in the Bible!
-Avery: 
+Bible Reader 4: Psalm 33:2. Praise the Lord with melodies on the lyre; make music for him on the ten-stringed harp.
+Bible Reader 5:  Psalm 150:4. Praise him with the tambourine and dancing; praise him with strings and flutes!
+Bible Reader 6: 
