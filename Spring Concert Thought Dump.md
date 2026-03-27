@@ -10,12 +10,12 @@
 - May 20th 7:15
 - Pick different songs and have speaking parts in between talking about the impact of music
 	- Speaker: Music brings us together
-	- "Music is the Language of the World"
+	- "Music is the Language of the World" (3.5 minutes)
 	- Speaker: Music makes us groove
-	- "Syncocopation"
+	- "Syncocopation" (3 minutes)
 	- Speaker: Music teaches us new skills
-	- "On Top of the World" (no singing, just play along boomwhackers and ukuleles)
+	- "On Top of the World" (no singing, just play along boomwhackers and ukuleles) (3.5 minutes)
 	- Speaker: Music is a way that people all over the world worship God
-	- "How Great is our God (World version)"
+	- "How Great is our God (World version)" (5.5 minutes)
 ## 5th
 - May 18th 6:30
