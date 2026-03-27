@@ -64,7 +64,17 @@ Riley: Some missionaries came to speak at my church a while ago and they showed 
 Avery: And we'd like to sing it with you!
 **Song: How Great is Our God (World Edition)**
 Riley: You know, I'm really grateful for you guys. You showed me so many reasons that music is important and fun and...well, I think I'm actually kind of excited for the performance tonight!
-Jessie: Woohoo! *(Checks her watch.)* Wait, we've only got five minutes until it starts! How's my hair?
+Jessie: Woohoo! *(Checks her watch.)* Wait, we've only got two minutes until it starts! How's my hair?
 Avery: It appears you've been adequately conditioning it for proper moisture, but the humidity levels today might contribute to a bit of frizzing at the ends.
 Alex: Nah, you look fine. Come on, we've gotta get to the stage!
-Riley: This might actually be the f
+Riley: I'll be right there, I've just got to do something really quick.
+Jessie: Okay, but don't take too long! We've got to get this show on the road!
+*(Avery, Alex, and Jessie all run to their places on the risers. Riley stays behind and opens a Bible.)*
+Riley: Psalm 150. Praise the Lord! Praise God in his sanctuary; praise him in his mighty heaven! Praise him for his mighty works; praise his unequaled greatness! Praise him with a blast of the ram’s horn; praise him with the lyre and harp!  
+4 Praise him with the tambourine and dancing;  
+    praise him with strings and flutes!  
+5 Praise him with a clash of cymbals;  
+    praise him with loud clanging cymbals.  
+6 Let everything that breathes sing praises to the Lord!
+
+Praise the Lord!
