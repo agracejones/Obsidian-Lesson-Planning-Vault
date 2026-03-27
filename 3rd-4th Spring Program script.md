@@ -63,3 +63,8 @@ Bible Reader 6: 2 Samuel 6:5. David and all the people of Israel were celebratin
 Riley: Some missionaries came to speak at my church a while ago and they showed us this video of people praising God in different languages. I thought it was boring back then, but now...I think I'd kind of like to sing something like that.
 Avery: And we'd like to sing it with you!
 **Song: How Great is Our God (World Edition)**
+Riley: You know, I'm really grateful for you guys. You showed me so many reasons that music is important and fun and...well, I think I'm actually kind of excited for the performance tonight!
+Jessie: Woohoo! *(Checks her watch.)* Wait, we've only got five minutes until it starts! How's my hair?
+Avery: It appears you've been adequately conditioning it for proper moisture, but the humidity levels today might contribute to a bit of frizzing at the ends.
+Alex: Nah, you look fine. Come on, we've gotta get to the stage!
+Riley: This might actually be the f
