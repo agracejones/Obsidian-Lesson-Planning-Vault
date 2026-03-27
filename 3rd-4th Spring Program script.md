@@ -52,6 +52,9 @@ Avery: Yeah, the harmonic layering of the different boomwhackers created chord s
 Riley: You know, I've been thinking about what you were saying earlier. 
 Avery: Oh, about resonant frequencies? I can explain it really quick if you're interested! Are you free for the next 45 minutes or so? 
 Riley: Uh...no. I meant what you were saying about people all over the world making music for thousands of years and stuff. I guess I never thought about it before. I wonder what ancient music might have sounded like?
-Jessie: You know, my Sunday school class has been talking about the book of Psalms. My teacher said a lot of them were originally written as songs!
+Jessie: You know, my Sunday school class has been talking about the book of Psalms. My teacher said a lot of them were originally written as songs! A lot of them talk about singing and music.
+Bible Reader 1: Psalm 57:7. My heart is confident in you, O God; my heart is confident. No wonder I can sing your praises!
+Bible Reader 2: Shout to the Lord, all the earth; break out in praise and sing for joy!
+Bible Reader 3: Let everything that breathes sing praises to the Lord! Praise the Lord!
 Alex: Yeah, and they even talk about instruments in the Bible!
 Avery: 
