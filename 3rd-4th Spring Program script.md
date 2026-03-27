@@ -35,4 +35,11 @@ Alex: Woah, woah, woah! Who said music just has to be singing?
 Riley: Isn't that like the whole point? You can't do music without singing.
 Avery: Nonsense! People have used instruments to make music for thousands of years.
 Jessie: Yeah! Sometimes I like to just sit and play the ukulele along with my favorite songs.
-Riley: I guess that sounds nice...but I don't know how to paly
+Riley: I guess that sounds nice...but I don't know how to play any instruments. It seems like a lot of work.
+Alex: I bet I can teach you to play an instrument in five seconds!
+Riley: Yeah, right! There's no way that's possible.
+Alex: Just watch! *(Alex brings out two boomwhackers and gives one to Riley.)*
+Jessie: Oooo, I love boomwhackers!
+Avery: I find them fascinating, myself! Just changing the length of the tube affects the resonant frequency enough to make each one play a unique note.
+Alex: ...Yeah, what he said. Anyway, hold it in one hand like this, and...boom! *(Alex shows Riley how to play the boomwhacker.)*
+Riley: That is kind of cool, I guess
