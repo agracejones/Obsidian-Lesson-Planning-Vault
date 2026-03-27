@@ -42,4 +42,7 @@ Alex: Just watch! *(Alex brings out two boomwhackers and gives one to Riley.)*
 Jessie: Oooo, I love boomwhackers!
 Avery: I find them fascinating, myself! Just changing the length of the tube affects the resonant frequency enough to make each one play a unique note.
 Alex: ...Yeah, what he said. Anyway, hold it in one hand like this, and...boom! *(Alex shows Riley how to play the boomwhacker.)*
-Riley: That is kind of cool, I guess
+Riley: That is kind of cool, I guess, but how am I supposed to play a song with just one note?
+Alex: That's where we come in! *(Alex grabs more boomwhackers and gives one each to the other two.)* Teamwork makes the dream work...and in this case, it makes the song work. Okay, boomwhackers on three!
+All: *(Everyone holds their boomwhackers together in a teamwork chant)* One, two, three, boomwhackers!
+**Song: On Top of the World**
