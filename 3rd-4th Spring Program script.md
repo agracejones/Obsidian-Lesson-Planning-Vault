@@ -26,7 +26,7 @@ Jessie: You know what I mean! You just put on your music and sing in the mirror 
 Avery: Studies show that music affects the limbic system in the brain and can raise levels of dopamine, increasing mood and motivation.
 Alex: Dude, we're in fourth grade. Where are you learning this stuff?
 Avery: I read a lot of magazines.
-Jessie: What about that song we sang last month in music? I'm pretty sure I saw you tapping your toes!
+Jessie: What about that song we sang last month in music class? I'm pretty sure I saw you tapping your toes!
 Riley: What? No you didn't!
 Jessie: Yes, I did! Come on, I know you know it...*(singing)* Sing, sing, syncocopation....
 **Song: Syncocopation**
@@ -70,11 +70,5 @@ Alex: Nah, you look fine. Come on, we've gotta get to the stage!
 Riley: I'll be right there, I've just got to do something really quick.
 Jessie: Okay, but don't take too long! We've got to get this show on the road!
 *(Avery, Alex, and Jessie all run to their places on the risers. Riley stays behind and opens a Bible.)*
-Riley: Psalm 150. Praise the Lord! Praise God in his sanctuary; praise him in his mighty heaven! Praise him for his mighty works; praise his unequaled greatness! Praise him with a blast of the ram’s horn; praise him with the lyre and harp!  
-4 Praise him with the tambourine and dancing;  
-    praise him with strings and flutes!  
-5 Praise him with a clash of cymbals;  
-    praise him with loud clanging cymbals.  
-6 Let everything that breathes sing praises to the Lord!
-
-Praise the Lord!
+Riley: Psalm 150. Praise the Lord! Praise God in his sanctuary; praise him in his mighty heaven! Praise him for his mighty works; praise his unequaled greatness! Praise him with a blast of the ram’s horn; praise him with the lyre and harp! Praise him with the tambourine and dancing; praise him with strings and flutes! Praise him with a clash of cymbals; praise him with loud clanging cymbals. Let everything that breathes sing praises to the Lord! Praise the Lord! *(Riley closes the Bible and smiles.)* Praising God with all those instruments and voices...now that sounds like quite a celebration!
+**Song: Celebration**
