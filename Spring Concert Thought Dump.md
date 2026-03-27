@@ -8,6 +8,8 @@
 - https://musicplayonline.com/media/cookies-the-musical-teacher-score/
 ## 3rd-4th
 - May 20th 7:15
-- 
+- Pick different songs and have speaking parts in between talking about the impact of music
+	- "Music is the Language of the World"
+	- 
 ## 5th
 - May 18th 6:30
