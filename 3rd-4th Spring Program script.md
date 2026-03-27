@@ -10,3 +10,9 @@ Alex: Oh...uh...is that so?
 Jessie: Does my hair look okay? I want to be all ready for the music performance tonight!
 Riley: Ugh, I forgot that we have to sing tonight. Can't we just skip music?
 Alex: What? I love music!
+Riley: Really? I think it's soooo boring.
+Avery: No way! Music is so cool. It's something that every culture in the world has in common.
+Jessie: *Every* culture?
+Avery: I mean, I would have to conduct a survey of approximately 195 countries to know for sure...
+Alex: Now *that* sounds boring!
+Avery: What I'm trying to say is that music is like...a sort of universal language
