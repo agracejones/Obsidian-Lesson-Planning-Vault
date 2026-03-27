@@ -17,6 +17,8 @@
 	- "On Top of the World" (no singing, just play along boomwhackers and ukuleles) (3.5 minutes)
 	- Speaker: Music is a way that people all over the world worship God
 	- "How Great is our God (World version)" (5.5 minutes)
+	- Speaker: Music is a way to celebrate
+	- "Celebration" (3 minutes)
 ## 5th
 - May 18th 6:30
 - Worship songs?
