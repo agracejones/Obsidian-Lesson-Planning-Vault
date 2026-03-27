@@ -49,5 +49,9 @@ All: *(Everyone holds their boomwhackers together in a teamwork chant)* One, two
 Jessie: Woo! That was awesome!
 Alex: That rocked!
 Avery: Yeah, the harmonic layering of the different boomwhackers created chord structures and...I mean, it was fun!
-Riley: You know, I've been thinking about what you were saying. About people all over the world making music for thousands of years and stuff.
-Avery:
+Riley: You know, I've been thinking about what you were saying earlier. 
+Avery: Oh, about resonant frequencies? I can explain it really quick if you're interested! Are you free for the next 45 minutes or so? 
+Riley: Uh...no. I meant what you were saying about people all over the world making music for thousands of years and stuff. I guess I never thought about it before. I wonder what ancient music might have sounded like?
+Jessie: You know, my Sunday school class has been talking about the book of Psalms. My teacher said a lot of them were originally written as songs!
+Alex: Yeah, and they even talk about instruments in the Bible!
+Avery: 
