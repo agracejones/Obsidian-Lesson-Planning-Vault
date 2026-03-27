@@ -56,7 +56,10 @@ Jessie: You know, my Sunday school class has been talking about the book of Psal
 Bible Reader 1: Psalm 57:7. My heart is confident in you, O God; my heart is confident. No wonder I can sing your praises!
 Bible Reader 2: Psalm 98:4. Shout to the Lord, all the earth; break out in praise and sing for joy!
 Bible Reader 3: Psalm 150:6. Let everything that breathes sing praises to the Lord! Praise the Lord!
-Alex: Yeah, and they even talk about instruments in the Bible!
+Alex: Now that I think about it, they even talk about instruments in the Bible!
 Bible Reader 4: Psalm 33:2. Praise the Lord with melodies on the lyre; make music for him on the ten-stringed harp.
 Bible Reader 5:  Psalm 150:4. Praise him with the tambourine and dancing; praise him with strings and flutes!
-Bible Reader 6: 
+Bible Reader 6: 2 Samuel 6:5. David and all the people of Israel were celebrating before the Lord, singing songs and playing all kinds of musical instruments—lyres, harps, tambourines, castanets, and cymbals.
+Riley: Some missionaries came to speak at my church a while ago and they showed us this video of people praising God in different languages. I thought it was boring back then, but now...I think I'd kind of like to sing something like that.
+Avery: And we'd like to sing it with you!
+**Song: How Great is Our God (World Edition)**
