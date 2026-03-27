@@ -19,9 +19,16 @@ Avery: What I'm trying to say is that music is like a universally-spoken vernacu
 Riley: You lost me.
 Avery: Music is...well, it's the language of the world!
 **Song: Music is the Language**
-Riley: Okay, so people everywhere sing and dance and stuff. So what?
+Riley: Okay, so people everywhere sing and dance and stuff. So what? It doesn't affect me.
 Jessie: What, haven't you ever just grooved to your favorite song?
 Riley: "Grooved?" Man, you sound like my Grandma.
 Jessie: You know what I mean! You just put on your music and sing in the mirror and pretend you're the star of the show! It always makes me feel pumped up.
 Avery: Studies show that music affects the limbic system in the brain and can raise levels of dopamine, increasing mood and motivation.
-Alex: Dude, we're in fourth grade. Where are you learning this stud
+Alex: Dude, we're in fourth grade. Where are you learning this stuff?
+Avery: I read a lot of magazines.
+Jessie: What about that song we sang last month in music? I'm pretty sure I saw you tapping your toes!
+Riley: What? No you didn't!
+Jessie: Yes, I did! Come on, I know you know it...*(singing)* Sing, sing, syncocopation....
+**Song: Syncocopation**
+Riley: So it's a *little* bit catchy. That doesn't mean I like singing.
+Alex: Woah, woah, woah! Who
