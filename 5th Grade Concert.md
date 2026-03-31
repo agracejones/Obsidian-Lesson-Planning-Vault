@@ -1,1 +1,1 @@
-Song - Tumbalalaika, Maua Mazuri, Rasa Sayang, Home on the Range, 
+Song - Dona Nobis Pacem, Tumbalalaika, Maua Mazuri, Rasa Sayang, Home on the Range, students pick a song to end with
