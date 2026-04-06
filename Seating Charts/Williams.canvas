@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0bccf615aa29ecd4","type":"text","text":"","x":-350,"y":90,"width":700,"height":100},
 		{"id":"70d50720f4c92067","type":"text","text":"### Monday Plans\n\n[[3rd-4th - Ukulele Unit]] day four, start learning Music Is The Language","x":-350,"y":237,"width":350,"height":135,"color":"1"},
-		{"id":"eb9aa4b92aabdb39","type":"text","text":"### Wednesday Plans\n\n[[3rd-4th - Ukulele Unit]] Day three","x":0,"y":237,"width":350,"height":135,"color":"2"},
+		{"id":"eb9aa4b92aabdb39","type":"text","text":"### Wednesday Plans\n\n[[3rd-4th - Ukulele Unit]] Day five","x":0,"y":237,"width":350,"height":135,"color":"2"},
 		{"id":"3b67f862823e88e1","type":"text","text":"Olivia Garcia","x":-350,"y":-200,"width":140,"height":60,"color":"4"},
 		{"id":"f75701fa2020a1dc","type":"text","text":"Kaylee Daniells","x":-350,"y":-140,"width":140,"height":60},
 		{"id":"de69d0085335119d","type":"text","text":"Brooklynn Edmiston","x":-210,"y":-200,"width":140,"height":60,"color":"4"},
