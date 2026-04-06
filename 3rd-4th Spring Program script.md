@@ -40,7 +40,7 @@ Alex: ...Yeah, what he said. Anyway, hold it in one hand like this, and...boom! 
 Riley: That is kind of cool, I guess, but how am I supposed to play a song with just one note?
 Alex: That's where we come in! *(Alex grabs more boomwhackers and gives one each to the other two.)* Teamwork makes the dream work...and in this case, it makes the song work. Okay, boomwhackers on three!
 All: *(Everyone holds their boomwhackers together in a teamwork chant)* One, two, three, boomwhackers!
-**Song: On Top of the World**
+**Song: (Ukulele/BW song)**
 Jessie: Woo! That was awesome!
 Alex: That rocked!
 Avery: Yeah, the harmonic layering of the different boomwhackers created chord structures and...I mean, it was fun!
