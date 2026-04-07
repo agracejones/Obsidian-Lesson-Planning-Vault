@@ -13,7 +13,7 @@
 		{"id":"af5fdebb75d96cf5","type":"text","text":"Wyatt Kamph","x":210,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"9a602649c4da7dbb","type":"text","text":"David Bondar","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"d5bff4ebf6b71d12","type":"text","text":"Gentry Goforth","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
-		{"id":"98de62ead7716b4c","type":"text","text":"James Focht","x":-70,"y":-70,"width":140,"height":60,"color":"2"},
+		{"id":"98de62ead7716b4c","type":"text","text":"James Focht","x":-70,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"59ca3aa86156b7e7","type":"text","text":"Weston Schott","x":70,"y":-70,"width":140,"height":60},
 		{"id":"13b97039b1ea8fba","type":"text","text":"Charlie Reavey","x":210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"4137ea19c4a3f8f7","type":"text","text":"Grant Focht","x":-350,"y":-10,"width":140,"height":60},
