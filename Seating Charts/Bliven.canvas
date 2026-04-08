@@ -13,7 +13,7 @@
 		{"id":"313f4e4db3168a4f","type":"text","text":"Huxlee Lamma","x":210,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"9a7887c3771e87aa","type":"text","text":"Grace Lucas","x":-350,"y":-70,"width":140,"height":60},
 		{"id":"8f74b20cdcd56240","type":"text","text":"Kelson Day","x":-350,"y":-10,"width":140,"height":60},
-		{"id":"fae413c2088557cb","type":"text","text":"Brianna Watkins","x":-210,"y":-70,"width":140,"height":60},
+		{"id":"fae413c2088557cb","type":"text","text":"Brianna Watkins","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"592d58c74585488a","type":"text","text":"Benji Holcomb","x":-210,"y":-10,"width":140,"height":60},
 		{"id":"b91028fe18996452","type":"text","text":"Griffin Bouldry","x":-70,"y":-70,"width":140,"height":60},
 		{"id":"e5513bb2ebd7f29d","type":"text","text":"Annalisa Irwin","x":-70,"y":-10,"width":140,"height":60},
