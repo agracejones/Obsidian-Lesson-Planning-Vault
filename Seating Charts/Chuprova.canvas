@@ -2,9 +2,7 @@
 	"nodes":[
 		{"id":"30b239a9890633a5","type":"text","text":"Notes:\nChoice day 3-13: Connor F, Maxwell, Savannah, let Paislea go first next time!","x":-350,"y":90,"width":700,"height":100},
 		{"id":"787167489ad26212","type":"text","text":"Mavery Howard","x":-350,"y":-190,"width":140,"height":60},
-		{"id":"fca3f96f9116a1c2","type":"text","text":"Maxwell Glodt","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"52d01438ccc768db","type":"text","text":"Titus Burkholder","x":-70,"y":-190,"width":140,"height":60,"color":"4"},
-		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":70,"y":-190,"width":140,"height":60,"color":"2"},
 		{"id":"a036297ef54826d5","type":"text","text":"Haley Herndon","x":210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"c4865fed1b495441","type":"text","text":"Savannah Gregory","x":-350,"y":-130,"width":140,"height":60},
 		{"id":"57ddced795eca6c4","type":"text","text":"Hadley Stevens","x":-210,"y":-130,"width":140,"height":60},
@@ -22,7 +20,9 @@
 		{"id":"e2dc84a50b947ed4","type":"text","text":"Connor Fahlman","x":210,"y":-70,"width":140,"height":60},
 		{"id":"e05e3800923a1b75","type":"text","text":"Daklynn DuPont","x":210,"y":-10,"width":140,"height":60},
 		{"id":"443f4b44145e9bd1","type":"text","text":"### Wednesday Plans\n\n[[Kinder-2nd - Jazz Unit]] final day","x":-350,"y":250,"width":350,"height":135,"color":"2"},
-		{"id":"3fe867e6107574d6","type":"text","text":"### Friday Plans\n\nNo school\n","x":0,"y":250,"width":350,"height":135,"color":"#723f1d"}
+		{"id":"3fe867e6107574d6","type":"text","text":"### Friday Plans\n\nNo school\n","x":0,"y":250,"width":350,"height":135,"color":"#723f1d"},
+		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":-210,"y":-190,"width":140,"height":60,"color":"2"},
+		{"id":"fca3f96f9116a1c2","type":"text","text":"Maxwell Glodt","x":70,"y":-190,"width":140,"height":60,"color":"4"}
 	],
 	"edges":[]
 }
