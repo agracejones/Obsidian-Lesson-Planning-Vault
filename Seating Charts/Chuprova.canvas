@@ -4,7 +4,7 @@
 		{"id":"787167489ad26212","type":"text","text":"Mavery Howard","x":-350,"y":-190,"width":140,"height":60},
 		{"id":"fca3f96f9116a1c2","type":"text","text":"Maxwell Glodt","x":-210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"52d01438ccc768db","type":"text","text":"Titus Burkholder","x":-70,"y":-190,"width":140,"height":60,"color":"4"},
-		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":70,"y":-190,"width":140,"height":60},
+		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":70,"y":-190,"width":140,"height":60,"color":"2"},
 		{"id":"a036297ef54826d5","type":"text","text":"Haley Herndon","x":210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"c4865fed1b495441","type":"text","text":"Savannah Gregory","x":-350,"y":-130,"width":140,"height":60},
 		{"id":"57ddced795eca6c4","type":"text","text":"Hadley Stevens","x":-210,"y":-130,"width":140,"height":60},
