@@ -8,7 +8,7 @@
 		{"id":"03cf8c6cdd6c770b","type":"text","text":"Ivory Voisine","x":-350,"y":-140,"width":140,"height":60,"color":"4"},
 		{"id":"efed391687cf2656","type":"text","text":"","x":-70,"y":-200,"width":140,"height":60},
 		{"id":"437b1bc589a56b82","type":"text","text":"","x":70,"y":-200,"width":140,"height":60},
-		{"id":"5b4a2354f33e03a2","type":"text","text":"Evan Baziotis","x":210,"y":-200,"width":140,"height":60},
+		{"id":"5b4a2354f33e03a2","type":"text","text":"Evan Baziotis","x":210,"y":-200,"width":140,"height":60,"color":"2"},
 		{"id":"3ba985ed353e55c5","type":"text","text":"Jaxon Hodson","x":-210,"y":-140,"width":140,"height":60},
 		{"id":"b8d22d611761233c","type":"text","text":"","x":-70,"y":-140,"width":140,"height":60},
 		{"id":"260d569206df5a5a","type":"text","text":"Zaina Grenz","x":70,"y":-140,"width":140,"height":60,"color":"4"},
