@@ -22,7 +22,7 @@
 		{"id":"a036297ef54826d5","type":"text","text":"Haley Herndon","x":210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"57ddced795eca6c4","type":"text","text":"Hadley Stevens","x":210,"y":-130,"width":140,"height":60},
 		{"id":"e2dc84a50b947ed4","type":"text","text":"Connor Fahlman","x":210,"y":-70,"width":140,"height":60},
-		{"id":"e05e3800923a1b75","type":"text","text":"Daklynn DuPont","x":210,"y":-10,"width":140,"height":60}
+		{"id":"e05e3800923a1b75","type":"text","text":"Daklynn DuPont","x":210,"y":-10,"width":140,"height":60,"color":"4"}
 	],
 	"edges":[]
 }
