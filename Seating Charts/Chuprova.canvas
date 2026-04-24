@@ -15,7 +15,7 @@
 		{"id":"487648528cc7eb2e","type":"text","text":"Maverick Glodt","x":70,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"443f4b44145e9bd1","type":"text","text":"### Wednesday Plans\n\n[[Kinder-2nd - Jazz Unit]] final day","x":-350,"y":250,"width":350,"height":135,"color":"2"},
 		{"id":"3fe867e6107574d6","type":"text","text":"### Friday Plans\n\nNo school\n","x":0,"y":250,"width":350,"height":135,"color":"#723f1d"},
-		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":-210,"y":-190,"width":140,"height":60,"color":"2"},
+		{"id":"b44b86479bcf0b47","type":"text","text":"Connor Hoezee","x":-210,"y":-190,"width":140,"height":60},
 		{"id":"a036297ef54826d5","type":"text","text":"Haley Herndon","x":210,"y":-190,"width":140,"height":60,"color":"4"},
 		{"id":"57ddced795eca6c4","type":"text","text":"Hadley Stevens","x":210,"y":-130,"width":140,"height":60},
 		{"id":"e2dc84a50b947ed4","type":"text","text":"Connor Fahlman","x":210,"y":-70,"width":140,"height":60},
