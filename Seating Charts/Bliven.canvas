@@ -18,7 +18,7 @@
 		{"id":"b91028fe18996452","type":"text","text":"Griffin Bouldry","x":-70,"y":-70,"width":140,"height":60},
 		{"id":"e5513bb2ebd7f29d","type":"text","text":"Annalisa Irwin","x":-70,"y":-10,"width":140,"height":60},
 		{"id":"05bef27351666923","type":"text","text":"Weston Wood","x":70,"y":-70,"width":140,"height":60},
-		{"id":"c145874e02b3ed5b","type":"text","text":"Abby VanHoy","x":70,"y":-10,"width":140,"height":60},
+		{"id":"c145874e02b3ed5b","type":"text","text":"Abby VanHoy","x":70,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"929631d00b2e591b","type":"text","text":"Melody Robinson","x":210,"y":-70,"width":140,"height":60},
 		{"id":"25105d74e2b180b5","type":"text","text":"Jet Leigh","x":210,"y":-10,"width":140,"height":60},
 		{"id":"0aa5846bbdb11e21","type":"text","text":"### Monday Plans\n\n[[Kinder-2nd - Jazz Unit]] final day","x":-350,"y":261,"width":350,"height":135,"color":"1"},
