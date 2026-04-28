@@ -7,7 +7,7 @@
 		{"id":"4efdcce0eebbe477","type":"text","text":"Colette Greene","x":-350,"y":-160,"width":140,"height":60},
 		{"id":"69e9ae9246a34aca","type":"text","text":"Walter Falzone","x":-350,"y":-100,"width":140,"height":60},
 		{"id":"cb018aad444526e9","type":"text","text":"McKenzie Martin","x":-350,"y":-40,"width":140,"height":60},
-		{"id":"c9aa9d1947d7df45","type":"text","text":"Bentlea Fincham","x":-70,"y":-220,"width":140,"height":60},
+		{"id":"c9aa9d1947d7df45","type":"text","text":"Bentlea Fincham","x":-70,"y":-220,"width":140,"height":60,"color":"4"},
 		{"id":"6060215eb7aa68c3","type":"text","text":"Henry Bartels","x":-210,"y":-40,"width":140,"height":60},
 		{"id":"cb640ade509b1a37","type":"text","text":"Zander Fennig","x":70,"y":-220,"width":140,"height":60},
 		{"id":"5114acc6c4a8f6db","type":"text","text":"Mae Karnes","x":-70,"y":-40,"width":140,"height":60,"color":"4"},
