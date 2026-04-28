@@ -22,7 +22,7 @@
 		{"id":"694e568e96110528","type":"text","text":"Lucy Lindell","x":70,"y":-100,"width":140,"height":60},
 		{"id":"7e294b2b7ffdc062","type":"text","text":"Ronan Foster","x":210,"y":-100,"width":140,"height":60,"color":"4"},
 		{"id":"7d8fa1570d4dd281","type":"text","text":"Ellena Karnes","x":70,"y":-40,"width":140,"height":60},
-		{"id":"999873d856331b5a","type":"text","text":"Myles Wattenbarger","x":210,"y":-40,"width":140,"height":60}
+		{"id":"999873d856331b5a","type":"text","text":"Myles Wattenbarger","x":210,"y":-40,"width":140,"height":60,"color":"4"}
 	],
 	"edges":[]
 }
