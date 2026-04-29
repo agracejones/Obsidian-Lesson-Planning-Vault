@@ -6,7 +6,7 @@
 		{"id":"1e941c3bd47968b6","type":"text","text":"Cherish Holcomb","x":-70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"91fda6fd36755a4a","type":"text","text":"William Robinson","x":70,"y":-130,"width":140,"height":60,"color":"4"},
 		{"id":"ea02fb70eef0a4e9","type":"text","text":"Khi O'Shea","x":-350,"y":-70,"width":140,"height":60},
-		{"id":"7fae67066cff2b65","type":"text","text":"Ava Yarbrough","x":-350,"y":-10,"width":140,"height":60},
+		{"id":"7fae67066cff2b65","type":"text","text":"Ava Yarbrough","x":-350,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"fd11424e00768d0d","type":"text","text":"Mason Compton","x":-210,"y":-70,"width":140,"height":60,"color":"4"},
 		{"id":"d48054aeedf6708d","type":"text","text":"Paislea Fincham","x":-210,"y":-10,"width":140,"height":60,"color":"4"},
 		{"id":"1a22c89b90959f73","type":"text","text":"Sofia McPherson","x":-70,"y":-70,"width":140,"height":60,"color":"4"},
