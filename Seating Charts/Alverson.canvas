@@ -4,7 +4,7 @@
 		{"id":"bb8f7162468e5cbe","type":"text","text":"### Wednesday Plans\n\nMarch madness","x":-260,"y":145,"width":350,"height":135,"color":"2"},
 		{"id":"8fa3da8156eaf8ce","type":"text","text":"### Friday Plans\n\nNo school","x":90,"y":145,"width":350,"height":135,"color":"#723f1d"},
 		{"id":"9dd6adfea62127b0","type":"text","text":"Maya Mather","x":-260,"y":-160,"width":140,"height":60,"color":"4"},
-		{"id":"488bf4563778db71","type":"text","text":"Frankie Kammann","x":-260,"y":-100,"width":140,"height":60},
+		{"id":"488bf4563778db71","type":"text","text":"Frankie Kammann","x":-260,"y":-100,"width":140,"height":60,"color":"4"},
 		{"id":"f05897c05296c07b","type":"text","text":"Cole Gray","x":-120,"y":-160,"width":140,"height":60},
 		{"id":"02ca4652464196a6","type":"text","text":"Tripp Hughes","x":-120,"y":-100,"width":140,"height":60,"color":"4"},
 		{"id":"187bc70b37066f8c","type":"text","text":"","x":20,"y":-160,"width":140,"height":60},
