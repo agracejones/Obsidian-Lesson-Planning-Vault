@@ -13,7 +13,7 @@
 		{"id":"21a5192463f57718","type":"text","text":"Everly Sarapin","x":-70,"y":-120,"width":140,"height":60,"color":"4"},
 		{"id":"ead0c60fe4f82c12","type":"text","text":"Aubry Chamblin","x":-70,"y":-60,"width":140,"height":60,"color":"4"},
 		{"id":"1e4c8107a87f510b","type":"text","text":"Thomas Robinson","x":-70,"y":0,"width":140,"height":60},
-		{"id":"ae2919f5314fc162","type":"text","text":"Abby Herndon","x":70,"y":-180,"width":140,"height":60},
+		{"id":"ae2919f5314fc162","type":"text","text":"Abby Herndon","x":70,"y":-180,"width":140,"height":60,"color":"4"},
 		{"id":"1c440c3ad7a341a4","type":"text","text":"Cora Kearns","x":70,"y":-60,"width":140,"height":60,"color":"4"},
 		{"id":"179a921edf9b53ea","type":"text","text":"Isabel McCormick","x":70,"y":0,"width":140,"height":60,"color":"4"},
 		{"id":"14dc138e18dedfe5","type":"text","text":"Grayson Sines","x":210,"y":-180,"width":140,"height":60,"color":"4"},
