@@ -8,7 +8,7 @@
 		{"id":"4b2e2b54aa4035d1","type":"text","text":"Blaine Cameron","x":-350,"y":0,"width":140,"height":60},
 		{"id":"6354bc0f6cc9caec","type":"text","text":"Eden Rossman","x":-210,"y":-180,"width":140,"height":60},
 		{"id":"a16558d804be507e","type":"text","text":"Judah Burkholder","x":-210,"y":-120,"width":140,"height":60,"color":"4"},
-		{"id":"533cc4446399a5c5","type":"text","text":"Emma Haber","x":-210,"y":0,"width":140,"height":60},
+		{"id":"533cc4446399a5c5","type":"text","text":"Emma Haber","x":-210,"y":0,"width":140,"height":60,"color":"4"},
 		{"id":"f5f156e367d13788","type":"text","text":"Hyunwoo Yang","x":-70,"y":-180,"width":140,"height":60,"color":"4"},
 		{"id":"21a5192463f57718","type":"text","text":"Everly Sarapin","x":-70,"y":-120,"width":140,"height":60,"color":"4"},
 		{"id":"ead0c60fe4f82c12","type":"text","text":"Aubry Chamblin","x":-70,"y":-60,"width":140,"height":60,"color":"4"},
