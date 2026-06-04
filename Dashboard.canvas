@@ -103,7 +103,7 @@
 		{"id":"bc4ecd1ae4d09a5d","type":"text","text":"","x":869,"y":-150,"width":115,"height":50},
 		{"id":"c0ee415b004dfcc2","type":"text","text":"Dismissal","x":869,"y":-125,"width":115,"height":75,"color":"2"},
 		{"id":"32da9107dea35f42","type":"text","text":"Prep 3:10-3:30","x":869,"y":-75,"width":115,"height":100},
-		{"id":"a7b120a0e838d93c","type":"file","file":"Daily Reflections.md","x":-865,"y":-1225,"width":1287,"height":470,"color":"4"},
+		{"id":"a7b120a0e838d93c","type":"file","file":"2025-2026 Archive/Daily Reflections.md","x":-865,"y":-1225,"width":1287,"height":470,"color":"4"},
 		{"id":"a13773374e071df3","type":"text","text":"# To-Do List\n- [ ] Next lessons\n\t- [ ] [[3rd-4th - Syncopation Unit]] next 2 lessons\n\t- [ ] [[Kinder-2nd - Jazz Unit]]\n\t- [ ] [[5th - Part Singing Unit]]\n\t- [ ] Decide when to end units and what unit to do next\n\t- [ ] March madness?\n- [ ] Update weekly views","x":183,"y":-700,"width":239,"height":660,"color":"3"},
 		{"id":"c811e7e8d4cb4e2b","type":"text","text":"# Vault Information\n## Theme\nOrigami\n## Plugins\nFit\n\t**Github login:** agracejones\n\t**Personal access token (take out space before \"pat\"):** github pat_11B6G427A0qrtveZY2uauS_hvy8lW2bvUL8Byu8POKHX2weERgBnPBdQUlSlkNFING3EGC2FOHU9b46igE\n\t**Repository:** Obsidian-Lesson-Planning-Vault\nStyle Settings\n\t**Accent:** Eidolon\n\t**Light theme:** Solarized","x":-865,"y":-700,"width":558,"height":101,"color":"1"},
 		{"id":"22bbb28592824509","type":"text","text":"## This week's lessons\n","x":-865,"y":-550,"width":558,"height":500,"color":"5"},
